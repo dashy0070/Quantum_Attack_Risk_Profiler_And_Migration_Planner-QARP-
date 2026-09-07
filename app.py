@@ -205,10 +205,12 @@ if app_mode == "1. Ingestion & Telemetry Parser":
                 st.error(f"Error loading sample CSV: {e}")
         elif use_project_excel:
             try:
-                excel_data = pd.ExcelFile("cryptographic_algorithms_pqc.xlsx")
-                raw_df = pd.read_excel("cryptographic_algorithms_pqc.xlsx", sheet_name=excel_data.sheet_names[0])
+                import os
+                excel_file = "reports/cryptographic_algorithms_pqc.xlsx" if os.path.exists("reports/cryptographic_algorithms_pqc.xlsx") else "cryptographic_algorithms_pqc.xlsx"
+                excel_data = pd.ExcelFile(excel_file)
+                raw_df = pd.read_excel(excel_file, sheet_name=excel_data.sheet_names[0])
                 raw_df = raw_df.dropna(subset=['Algorithm'])
-                st.info(f"Loaded `cryptographic_algorithms_pqc.xlsx` (Sheet: `{excel_data.sheet_names[0]}`, {len(raw_df)} algorithm entries)")
+                st.info(f"Loaded `{excel_file}` (Sheet: `{excel_data.sheet_names[0]}`, {len(raw_df)} algorithm entries)")
             except Exception as e:
                 st.error(f"Error loading project Excel file: {e}")
                 
@@ -433,12 +435,13 @@ elif app_mode == "3. CBOM Compliance Matrix":
     
     if "Project Excel" in cbom_source:
         try:
-            excel_path = "cryptographic_algorithms_pqc.xlsx"
+            import os
+            excel_path = "reports/cryptographic_algorithms_pqc.xlsx" if os.path.exists("reports/cryptographic_algorithms_pqc.xlsx") else "cryptographic_algorithms_pqc.xlsx"
             xls = pd.ExcelFile(excel_path)
             sheet = st.selectbox("Select Excel Sheet", xls.sheet_names, index=0)
             df_raw = pd.read_excel(excel_path, sheet_name=sheet)
             cbom_df = df_raw.dropna(subset=['Algorithm'] if 'Algorithm' in df_raw.columns else df_raw.columns[0]).reset_index(drop=True)
-            st.success(f"Loaded `{sheet}` from `cryptographic_algorithms_pqc.xlsx` ({len(cbom_df)} algorithms)")
+            st.success(f"Loaded `{sheet}` from `{excel_path}` ({len(cbom_df)} algorithms)")
         except Exception as e:
             st.error(f"Error loading Excel file: {e}")
             cbom_df = pd.DataFrame(CBOM_CATALOG)

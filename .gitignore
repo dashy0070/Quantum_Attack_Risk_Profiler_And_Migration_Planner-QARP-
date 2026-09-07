@@ -17,13 +17,20 @@ backup/
 templates/
 Proposal/
 
-# Scratch Text Notes & Presentations
+# Documents & Presentations
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.pdf
 *.txt
 !requirements.txt
-*.docx
-!2_CS_13_Capstone Project_Quantum_Attack_Risk_Profiler_And_Migration_Planner(QARP)_2026_v9.docx
-*.pptx
+
+# Root-level Excel and duplicate files (Excel allowed only under reports/)
+*.xlsx
+*.xls
 *.csv.xlsx
+!reports/*.xlsx
 
 # Image Files
 *.png
