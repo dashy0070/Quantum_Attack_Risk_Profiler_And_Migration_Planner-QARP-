@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1018.8pt"
+   height="846pt"
+   viewBox="0 0 1018.8 846"
+   version="1.1"
+   id="svg69"
+   sodipodi:docname="project_methodology_lifecycle.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview69"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="0.70478723"
+     inkscape:cx="679.63774"
+     inkscape:cy="564"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="axes_1" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2026-09-07T08:18:23.954916</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="style1">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+  </defs>
+  <g
+     id="figure_1">
+    <g
+       id="axes_1"
+       transform="translate(10.641509,-18.090566)">
+      <g
+         id="patch_2">
+        <path
+           d="m 461.11154,177.51808 h 502.2 q 17.38384,0 17.38384,-14.39308 V 63.173077 Q 980.69538,48.78 963.31154,48.78 h -502.2 q -17.38385,0 -17.38385,14.393077 V 163.125 q 0,14.39308 17.38385,14.39308 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#f8fafc;stroke:#3b82f6;stroke-width:2;stroke-linejoin:miter"
+           id="path2" />
+      </g>
+      <g
+         id="patch_3">
+        <path
+           d="M 69.009231,179.91692 H 399.30231 q 14.48654,0 14.48654,-11.99423 v -55.97308 q 0,-11.994225 -14.48654,-11.994225 H 69.009231 q -14.486539,0 -14.486539,11.994225 v 55.97308 q 0,11.99423 14.486539,11.99423 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#f1f5f9;stroke:#94a3b8;stroke-width:1.8;stroke-linejoin:miter"
+           id="path3" />
+      </g>
+      <g
+         id="patch_4">
+        <path
+           d="m 69.975,287.06538 h 328.36154 q 14.48654,0 14.48654,-11.99423 V 225.495 q 0,-11.99423 -14.48654,-11.99423 H 69.975 q -14.486538,0 -14.486538,11.99423 v 49.57615 q 0,11.99423 14.486538,11.99423 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#eff6ff;stroke:#3b82f6;stroke-width:2;stroke-linejoin:miter"
+           id="path4" />
+      </g>
+      <g
+         id="patch_5">
+        <path
+           d="m 69.975,395.01346 h 328.36154 q 14.48654,0 14.48654,-11.99423 v -49.57615 q 0,-11.99423 -14.48654,-11.99423 H 69.975 q -14.486538,0 -14.486538,11.99423 v 49.57615 q 0,11.99423 14.486538,11.99423 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#f5f3ff;stroke:#8b5cf6;stroke-width:2;stroke-linejoin:miter"
+           id="path5" />
+      </g>
+      <g
+         id="patch_6">
+        <path
+           d="m 69.975,502.96154 h 328.36154 q 14.48654,0 14.48654,-11.99423 v -49.57616 q 0,-11.99423 -14.48654,-11.99423 H 69.975 q -14.486538,0 -14.486538,11.99423 v 49.57616 q 0,11.99423 14.486538,11.99423 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#fffbeb;stroke:#f59e0b;stroke-width:2;stroke-linejoin:miter"
+           id="path6" />
+      </g>
+      <g
+         id="patch_7">
+        <path
+           d="m 69.975,610.90962 h 328.36154 q 14.48654,0 14.48654,-11.99423 v -49.57616 q 0,-11.99423 -14.48654,-11.99423 H 69.975 q -14.486538,0 -14.486538,11.99423 v 49.57616 q 0,11.99423 14.486538,11.99423 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#fff1f2;stroke:#f43f5e;stroke-width:2;stroke-linejoin:miter"
+           id="path7" />
+      </g>
+      <g
+         id="patch_8">
+        <path
+           d="m 69.975,718.85769 h 328.36154 q 14.48654,0 14.48654,-11.99423 v -49.57615 q 0,-11.99423 -14.48654,-11.99423 H 69.975 q -14.486538,0 -14.486538,11.99423 v 49.57615 q 0,11.99423 14.486538,11.99423 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#f0fdf4;stroke:#10b981;stroke-width:2;stroke-linejoin:miter"
+           id="path8" />
+      </g>
+      <g
+         id="patch_9">
+        <path
+           d="m 460.14577,291.86308 h 504.13154 q 14.48654,0 14.48654,-11.99423 v -59.17154 q 0,-11.99423 -14.48654,-11.99423 H 460.14577 q -14.48654,0 -14.48654,11.99423 v 59.17154 q 0,11.99423 14.48654,11.99423 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#ffffff;stroke:#e2e8f0;stroke-width:1.8;stroke-linejoin:miter"
+           id="path9" />
+      </g>
+      <g
+         id="patch_10">
+        <path
+           d="m 460.14577,399.81115 h 504.13154 q 14.48654,0 14.48654,-11.99423 v -59.17154 q 0,-11.99423 -14.48654,-11.99423 H 460.14577 q -14.48654,0 -14.48654,11.99423 v 59.17154 q 0,11.99423 14.48654,11.99423 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#ffffff;stroke:#e2e8f0;stroke-width:1.8;stroke-linejoin:miter"
+           id="path10" />
+      </g>
+      <g
+         id="patch_11">
+        <path
+           d="m 460.14577,507.75923 h 504.13154 q 14.48654,0 14.48654,-11.99423 v -59.17154 q 0,-11.99423 -14.48654,-11.99423 H 460.14577 q -14.48654,0 -14.48654,11.99423 V 495.765 q 0,11.99423 14.48654,11.99423 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#ffffff;stroke:#e2e8f0;stroke-width:1.8;stroke-linejoin:miter"
+           id="path11" />
+      </g>
+      <g
+         id="patch_12">
+        <path
+           d="m 460.14577,615.70731 h 504.13154 q 14.48654,0 14.48654,-11.99423 v -59.17154 q 0,-11.99423 -14.48654,-11.99423 H 460.14577 q -14.48654,0 -14.48654,11.99423 v 59.17154 q 0,11.99423 14.48654,11.99423 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#ffffff;stroke:#e2e8f0;stroke-width:1.8;stroke-linejoin:miter"
+           id="path12" />
+      </g>
+      <g
+         id="patch_13">
+        <path
+           d="m 460.14577,723.65539 h 504.13154 q 14.48654,0 14.48654,-11.99424 v -59.17154 q 0,-11.99422 -14.48654,-11.99422 H 460.14577 q -14.48654,0 -14.48654,11.99422 v 59.17154 q 0,11.99424 14.48654,11.99424 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#ffffff;stroke:#e2e8f0;stroke-width:1.8;stroke-linejoin:miter"
+           id="path13" />
+      </g>
+      <g
+         id="patch_14"
+         style="fill:#2bb3e5;fill-opacity:1">
+        <path
+           d="m 494.91346,95.157692 h 144.86539 q 24.14423,0 24.14423,-19.990384 v 7.996154 q 0,-19.990385 -24.14423,-19.990385 H 494.91346 q -24.14423,0 -24.14423,19.990385 v -7.996154 q 0,19.990384 24.14423,19.990384 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#2bb3e5;fill-opacity:1"
+           id="path14" />
+      </g>
+      <g
+         id="text_1">
+        <text
+           style="font-weight:700;font-size:9.5px;font-family:'Times New Roman';text-anchor:middle;fill:#ffffff"
+           x="567.34613"
+           y="81.359848"
+           id="text14">STRATEGIC PROJECT GOAL</text>
+      </g>
+      <g
+         id="text_2">
+        <text
+           style="font-weight:700;font-size:14px;font-family:'Times New Roman';text-anchor:start;fill:#1e3a8a"
+           x="475.59808"
+           y="122.3801"
+           id="text15">Quantum Attack Risk Profiler &amp; Migration Planner (QARP)</text>
+      </g>
+      <g
+         id="text_3">
+        <text
+           style="font-size:10px;font-family:'Times New Roman';text-anchor:start;fill:#334155"
+           x="475.59808"
+           y="143.92816"
+           id="text16">Engineer, benchmark, and deploy a data-driven PQC risk profiler &amp; infrastructure cost engine</text>
+      </g>
+      <g
+         id="text_4">
+        <text
+           style="font-size:10px;font-family:'Times New Roman';text-anchor:start;fill:#334155"
+           x="475.59808"
+           y="161.52907"
+           id="text17">Automated log ingestion, Gidney-Ekerå cryptanalysis, CBOM generation, &amp; Payment HSM scaling</text>
+      </g>
+      <g
+         id="patch_15">
+        <path
+           d="m 181.03846,79.165385 h 106.23462 q 24.14423,0 24.14423,-19.990385 v 1.599231 q 0,-19.990385 -24.14423,-19.990385 H 181.03846 q -24.14423,0 -24.14423,19.990385 V 59.175 q 0,19.990385 24.14423,19.990385 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#22c55e"
+           id="path17" />
+      </g>
+      <g
+         id="text_5">
+        <text
+           style="font-weight:700;font-size:12px;font-family:'Times New Roman';text-anchor:middle;fill:#ffffff"
+           x="234.15576"
+           y="62.743172"
+           id="text18">START</text>
+      </g>
+      <g
+         id="text_6">
+        <text
+           style="font-weight:700;font-size:11.5px;font-family:'Times New Roman';text-anchor:middle;fill:#0f172a"
+           x="234.15576"
+           y="125.80069"
+           id="text19">Business Requirements (Scope)</text>
+      </g>
+      <g
+         id="text_7">
+        <text
+           style="font-size:8.8px;font-family:'Times New Roman';text-anchor:start;fill:#334155"
+           x="79.63269"
+           y="143.64308"
+           id="text20">• Obj 1: STRIDE-Quantum Threat Model &amp; Qubit Cryptanalysis</text>
+      </g>
+      <g
+         id="text_8">
+        <text
+           style="font-size:8.8px;font-family:'Times New Roman';text-anchor:start;fill:#334155"
+           x="79.63269"
+           y="157.23654"
+           id="text21">• Obj 2: Live Protocol Streaming Parser &amp; CycloneDX CBOM</text>
+      </g>
+      <g
+         id="text_9">
+        <text
+           style="font-size:8.8px;font-family:'Times New Roman';text-anchor:start;fill:#334155"
+           x="79.63269"
+           y="170.83002"
+           id="text22">• Obj 3-5: Physical liboqs Testing, HSM Sizing &amp; Dashboard Release</text>
+      </g>
+      <g
+         id="text_10">
+        <text
+           style="font-weight:700;font-size:12px;font-family:'Times New Roman';text-anchor:middle;fill:#1d4ed8"
+           x="234.15576"
+           y="243.21976"
+           id="text23">Objective 1: Design</text>
+      </g>
+      <g
+         id="text_11">
+        <text
+           style="font-size:10px;font-family:'Times New Roman';text-anchor:middle;fill:#1d4ed8"
+           x="234.15576"
+           y="265.78955"
+           id="text24">STRIDE-Quantum Threat Model &amp; Risk Taxonomy</text>
+      </g>
+      <g
+         id="text_12">
+        <text
+           style="font-weight:700;font-size:12px;font-family:'Times New Roman';text-anchor:middle;fill:#6d28d9"
+           x="234.15576"
+           y="351.16785"
+           id="text25">Objective 2: Build</text>
+      </g>
+      <g
+         id="text_13">
+        <text
+           style="font-size:10px;font-family:'Times New Roman';text-anchor:middle;fill:#6d28d9"
+           x="234.15576"
+           y="373.73761"
+           id="text26">Streaming Protocol Parser &amp; CBOM Engine</text>
+      </g>
+      <g
+         id="text_14">
+        <text
+           style="font-weight:700;font-size:12px;font-family:'Times New Roman';text-anchor:middle;fill:#b45309"
+           x="234.15576"
+           y="459.11591"
+           id="text27">Objective 3: Test</text>
+      </g>
+      <g
+         id="text_15">
+        <text
+           style="font-size:10px;font-family:'Times New Roman';text-anchor:middle;fill:#b45309"
+           x="234.15576"
+           y="481.6857"
+           id="text28">Physical liboqs Benchmarking &amp; CPU Execution</text>
+      </g>
+      <g
+         id="text_16">
+        <text
+           style="font-weight:700;font-size:12px;font-family:'Times New Roman';text-anchor:middle;fill:#be123c"
+           x="234.15576"
+           y="567.06396"
+           id="text29">Objective 4: Validate</text>
+      </g>
+      <g
+         id="text_17">
+        <text
+           style="font-size:10px;font-family:'Times New Roman';text-anchor:middle;fill:#be123c"
+           x="234.15576"
+           y="589.63379"
+           id="text30">Network MTU Simulation &amp; Hardware Capacity Sizing</text>
+      </g>
+      <g
+         id="text_18">
+        <text
+           style="font-weight:700;font-size:12px;font-family:'Times New Roman';text-anchor:middle;fill:#047857"
+           x="234.15576"
+           y="675.01208"
+           id="text31">Objective 5: Deploy</text>
+      </g>
+      <g
+         id="text_19">
+        <text
+           style="font-size:10px;font-family:'Times New Roman';text-anchor:middle;fill:#047857"
+           x="234.15576"
+           y="697.58185"
+           id="text32">Streamlit Executive Dashboard &amp; GitHub Release</text>
+      </g>
+      <g
+         id="patch_16"
+         transform="translate(0,-15)"
+         style="fill:#faabf8;fill-opacity:1">
+        <path
+           d="m 113.43461,785.22577 h 241.44231 q 24.14423,0 24.14423,-19.99039 v 3.19847 q 0,-19.99039 -24.14423,-19.99039 H 113.43461 q -24.144225,0 -24.144225,19.99039 v -3.19847 q 0,19.99039 24.144225,19.99039 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#faabf8;fill-opacity:1"
+           id="path32"
+           transform="translate(0,15)" />
+      </g>
+      <g
+         id="text_20">
+        <text
+           style="font-weight:700;font-size:11px;font-family:'Times New Roman';text-anchor:middle;fill:#78350f"
+           x="234.15576"
+           y="769.37244"
+           id="text33">Stakeholder Acceptance</text>
+      </g>
+      <g
+         id="patch_17"
+         transform="translate(0,15)">
+        <path
+           d="m 190.69615,825.20654 h 86.91923 q 24.14423,0 24.14423,-19.99039 v 3.19847 q 0,-19.99039 -24.14423,-19.99039 h -86.91923 q -24.14423,0 -24.14423,19.99039 v -3.19847 q 0,19.99039 24.14423,19.99039 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#ef4444"
+           id="path33" />
+      </g>
+      <g
+         id="text_21"
+         transform="translate(0,15)">
+        <text
+           style="font-weight:700;font-size:12px;font-family:'Times New Roman';text-anchor:middle;fill:#ffffff"
+           x="234.15576"
+           y="809.58392"
+           id="text34">END</text>
+      </g>
+      <g
+         id="patch_18">
+        <path
+           d="m 456.28269,281.46808 h 1.93154 q 3.86308,0 3.86308,-3.19847 v -55.97307 q 0,-3.19846 -3.86308,-3.19846 h -1.93154 q -3.86307,0 -3.86307,3.19846 v 55.97307 q 0,3.19847 3.86307,3.19847 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#2563eb"
+           id="path34" />
+      </g>
+      <g
+         id="patch_19">
+        <path
+           d="m 480.42692,249.48346 h 77.26154 q 7.72616,0 7.72616,-6.39692 v -14.39308 q 0,-6.39692 -7.72616,-6.39692 h -77.26154 q -7.72615,0 -7.72615,6.39692 v 14.39308 q 0,6.39692 7.72615,6.39692 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#f1f5f9;stroke:#2563eb;stroke-width:1.2;stroke-linejoin:miter"
+           id="path35" />
+      </g>
+      <g
+         id="text_22">
+        <text
+           style="font-weight:700;font-size:8.5px;font-family:'Times New Roman';text-anchor:middle;fill:#2563eb"
+           x="519.05768"
+           y="237.85106"
+           id="text35">CHAPTER 7</text>
+      </g>
+      <g
+         id="text_23">
+        <text
+           style="font-weight:700;font-size:11.5px;font-family:'Times New Roman';text-anchor:start;fill:#0f172a"
+           x="579.90118"
+           y="238.54645"
+           id="text36">Threat Modeling &amp; Architectural Specifications</text>
+      </g>
+      <g
+         id="text_24">
+        <text
+           style="font-size:9.5px;font-family:'Times New Roman';text-anchor:start;fill:#475569"
+           x="475.59808"
+           y="271.75589"
+           id="text37">STRIDE-Quantum boundary mapping, Gidney-Ekerå qubit math, and Grover symmetric triage.</text>
+      </g>
+      <g
+         id="patch_20">
+        <path
+           d="m 456.28269,389.41615 h 1.93154 q 3.86308,0 3.86308,-3.19846 v -55.97308 q 0,-3.19846 -3.86308,-3.19846 h -1.93154 q -3.86307,0 -3.86307,3.19846 v 55.97308 q 0,3.19846 3.86307,3.19846 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#7c3aed"
+           id="path37" />
+      </g>
+      <g
+         id="patch_21">
+        <path
+           d="m 480.42692,357.43154 h 77.26154 q 7.72616,0 7.72616,-6.39693 v -14.39307 q 0,-6.39693 -7.72616,-6.39693 h -77.26154 q -7.72615,0 -7.72615,6.39693 v 14.39307 q 0,6.39693 7.72615,6.39693 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#f1f5f9;stroke:#7c3aed;stroke-width:1.2;stroke-linejoin:miter"
+           id="path38" />
+      </g>
+      <g
+         id="text_25">
+        <text
+           style="font-weight:700;font-size:8.5px;font-family:'Times New Roman';text-anchor:middle;fill:#7c3aed"
+           x="519.05768"
+           y="345.79913"
+           id="text38">CHAPTER 8</text>
+      </g>
+      <g
+         id="text_26">
+        <text
+           style="font-weight:700;font-size:11.5px;font-family:'Times New Roman';text-anchor:start;fill:#0f172a"
+           x="579.90118"
+           y="346.49454"
+           id="text39">Streaming Protocol Parser &amp; CBOM Generator</text>
+      </g>
+      <g
+         id="text_27">
+        <text
+           style="font-size:9.5px;font-family:'Times New Roman';text-anchor:start;fill:#475569"
+           x="475.59808"
+           y="379.69507"
+           id="text40">Python parser for REST JSON, ISO 20022 (pacs.008), Zeek TLS 1.3, and CycloneDX 1.6 CBOM.</text>
+      </g>
+      <g
+         id="patch_22">
+        <path
+           d="m 456.28269,497.36423 h 1.93154 q 3.86308,0 3.86308,-3.19846 v -55.97308 q 0,-3.19846 -3.86308,-3.19846 h -1.93154 q -3.86307,0 -3.86307,3.19846 v 55.97308 q 0,3.19846 3.86307,3.19846 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#d97706"
+           id="path40" />
+      </g>
+      <g
+         id="patch_23">
+        <path
+           d="m 480.42692,465.37961 h 77.26154 q 7.72616,0 7.72616,-6.39692 v -14.39308 q 0,-6.39692 -7.72616,-6.39692 h -77.26154 q -7.72615,0 -7.72615,6.39692 v 14.39308 q 0,6.39692 7.72615,6.39692 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#f1f5f9;stroke:#d97706;stroke-width:1.2;stroke-linejoin:miter"
+           id="path41" />
+      </g>
+      <g
+         id="text_28">
+        <text
+           style="font-weight:700;font-size:8.5px;font-family:'Times New Roman';text-anchor:middle;fill:#d97706"
+           x="519.05768"
+           y="453.74722"
+           id="text41">CHAPTER 9</text>
+      </g>
+      <g
+         id="text_29">
+        <text
+           style="font-weight:700;font-size:11.5px;font-family:'Times New Roman';text-anchor:start;fill:#0f172a"
+           x="579.90118"
+           y="454.4426"
+           id="text42">Cryptographic Benchmarking with liboqs</text>
+      </g>
+      <g
+         id="text_30">
+        <text
+           style="font-size:9.5px;font-family:'Times New Roman';text-anchor:start;fill:#475569"
+           x="475.59808"
+           y="487.64313"
+           id="text43">Empirical CPU cycle profiling: ML-KEM-768 (37 μs encaps) vs ML-DSA-65 (385 μs signing).</text>
+      </g>
+      <g
+         id="patch_24">
+        <path
+           d="m 456.28269,605.31231 h 1.93154 q 3.86308,0 3.86308,-3.19846 v -55.97308 q 0,-3.19846 -3.86308,-3.19846 h -1.93154 q -3.86307,0 -3.86307,3.19846 v 55.97308 q 0,3.19846 3.86307,3.19846 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#e11d48"
+           id="path43" />
+      </g>
+      <g
+         id="patch_25">
+        <path
+           d="m 480.42692,573.32769 h 77.26154 q 7.72616,0 7.72616,-6.39692 v -14.39308 q 0,-6.39692 -7.72616,-6.39692 h -77.26154 q -7.72615,0 -7.72615,6.39692 v 14.39308 q 0,6.39692 7.72615,6.39692 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#f1f5f9;stroke:#e11d48;stroke-width:1.2;stroke-linejoin:miter"
+           id="path44" />
+      </g>
+      <g
+         id="text_31">
+        <text
+           style="font-weight:700;font-size:8.5px;font-family:'Times New Roman';text-anchor:middle;fill:#e11d48"
+           x="519.05768"
+           y="561.69531"
+           id="text44">CHAPTER 9</text>
+      </g>
+      <g
+         id="text_32">
+        <text
+           style="font-weight:700;font-size:11.5px;font-family:'Times New Roman';text-anchor:start;fill:#0f172a"
+           x="579.90118"
+           y="562.39069"
+           id="text45">Network Physics &amp; Payment HSM Capacity Sizing</text>
+      </g>
+      <g
+         id="text_33">
+        <text
+           style="font-size:9.5px;font-family:'Times New Roman';text-anchor:start;fill:#475569"
+           x="475.59808"
+           y="595.59119"
+           id="text46">Ethernet MTU fragmentation (&lt;50 ms SLA) and validating the 522.2% hardware capacity deficit.</text>
+      </g>
+      <g
+         id="patch_26">
+        <path
+           d="m 456.28269,713.26039 h 1.93154 q 3.86308,0 3.86308,-3.19847 v -55.97307 q 0,-3.19846 -3.86308,-3.19846 h -1.93154 q -3.86307,0 -3.86307,3.19846 v 55.97307 q 0,3.19847 3.86307,3.19847 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#059669"
+           id="path46" />
+      </g>
+      <g
+         id="patch_27">
+        <path
+           d="m 480.42692,681.27577 h 77.26154 q 7.72616,0 7.72616,-6.39692 v -14.39308 q 0,-6.39692 -7.72616,-6.39692 h -77.26154 q -7.72615,0 -7.72615,6.39692 v 14.39308 q 0,6.39692 7.72615,6.39692 z"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:#f1f5f9;stroke:#059669;stroke-width:1.2;stroke-linejoin:miter"
+           id="path47" />
+      </g>
+      <g
+         id="text_34">
+        <text
+           style="font-weight:700;font-size:8.5px;font-family:'Times New Roman';text-anchor:middle;fill:#059669"
+           x="519.05768"
+           y="669.64337"
+           id="text47">CH. 6, 8 &amp; DEMO</text>
+      </g>
+      <g
+         id="text_35">
+        <text
+           style="font-weight:700;font-size:11.5px;font-family:'Times New Roman';text-anchor:start;fill:#0f172a"
+           x="579.90118"
+           y="670.33875"
+           id="text48">Executive Dashboard &amp; Open-Source Publication</text>
+      </g>
+      <g
+         id="text_36">
+        <text
+           style="font-size:9.5px;font-family:'Times New Roman';text-anchor:start;fill:#475569"
+           x="475.59808"
+           y="703.53931"
+           id="text49">Interactive Streamlit application (app.py) for CISOs, CBOM export, and GitHub release.</text>
+      </g>
+      <g
+         id="text_37">
+        <text
+           style="font-weight:700;font-size:8.5px;font-family:'Times New Roman';text-anchor:middle;fill:#ffffff"
+           x="430.20691"
+           y="522.11432"
+           id="text50">FEEDBACK</text>
+      </g>
+      <g
+         id="patch_28">
+        <path
+           d="m 234.15577,77.165858 q 0,11.993114 0,21.75016"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round"
+           id="path50" />
+        <path
+           d="m 236.15577,94.916018 -2,4 -2,-4"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round"
+           id="path51" />
+      </g>
+      <g
+         id="patch_29">
+        <path
+           d="m 234.15577,177.11871 q 0,19.1919 0,36.14774"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round"
+           id="path52" />
+        <path
+           d="m 236.15577,209.26645 -2,4 -2,-4"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round"
+           id="path53" />
+      </g>
+      <g
+         id="patch_30">
+        <path
+           d="m 234.15577,285.06678 q 0,19.19191 0,36.14774"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round"
+           id="path54" />
+        <path
+           d="m 236.15577,317.21452 -2,4 -2,-4"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round"
+           id="path55" />
+      </g>
+      <g
+         id="patch_31">
+        <path
+           d="m 234.15577,393.01486 q 0,19.19191 0,36.14774"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round"
+           id="path56" />
+        <path
+           d="m 236.15577,425.1626 -2,4 -2,-4"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round"
+           id="path57" />
+      </g>
+      <g
+         id="patch_32">
+        <path
+           d="m 234.15577,500.96294 q 0,19.1919 0,36.14774"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round"
+           id="path58" />
+        <path
+           d="m 236.15577,533.11068 -2,4 -2,-4"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round"
+           id="path59" />
+      </g>
+      <g
+         id="patch_33">
+        <path
+           d="m 234.15577,608.91102 q 0,19.1919 0,36.14773"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round"
+           id="path60" />
+        <path
+           d="m 236.15577,641.05875 -2,4 -2,-4"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round"
+           id="path61" />
+      </g>
+      <g
+         id="patch_34">
+        <path
+           d="m 234.15577,716.85524 q 0,16.79185 0,31.34763"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round"
+           id="path62" />
+        <path
+           d="m 236.15577,744.20287 -2,4 -2,-4"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round"
+           id="path63" />
+      </g>
+      <g
+         id="patch_34-5"
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         transform="matrix(1.1229247,0,0,0.50648373,-27.651565,423.16921)">
+        <path
+           d="m 234.15577,716.85524 q 0,16.79185 0,31.34763"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+           id="path62-5" />
+        <path
+           d="m 236.15577,744.20287 -2,4 -2,-4"
+           style="fill:none;stroke:#1e293b;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+           id="path63-1" />
+      </g>
+      <g
+         id="line2d_1"
+         transform="matrix(0.7170168,0,0,1.0006667,121.93237,-0.34679503)">
+        <path
+           d="m 407.99423,682.07538 h 22.21269 V 358.23115 h -22.21269"
+           clip-path="url(#p6f09da2e0f)"
+           style="fill:none;stroke:#3b82f6;stroke-width:2;stroke-dasharray:7.4, 3.2;stroke-dashoffset:0"
+           id="path66" />
+      </g>
+      <g
+         id="patch_36">
+        <path
+           d="m 420.4825,358.23115 q -5.24562,0 -8.25518,0"
+           style="fill:none;stroke:#3b82f6;stroke-width:2;stroke-linecap:round"
+           id="path67" />
+        <path
+           d="m 416.22732,360.23115 -4,-2 4,-2"
+           style="fill:none;stroke:#3b82f6;stroke-width:2;stroke-linecap:round"
+           id="path68" />
+      </g>
+      <g
+         id="patch_37" />
+    </g>
+  </g>
+  <defs
+     id="defs69">
+    <clipPath
+       id="p6f09da2e0f">
+      <rect
+         x="7.2"
+         y="7.2"
+         width="1004.4"
+         height="831.6"
+         id="rect69" />
+    </clipPath>
+  </defs>
+</svg>

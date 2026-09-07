@@ -1,0 +1,17 @@
+Fig 5.1: Project Methodology and Lifecycle Architecture (SSDLC) 32
+Fig 5.2: QARP Project Phases                                    33
+Fig 7.1: STRIDE based Quantum Threat Model                      41
+Fig 8.1: QARP Modular Tool Architecture                         43
+
+Algorithm 8.1: QARP Architectural Decision Flowchart of the Banking Telemetry Assessment & SLA Risk Engine 45
+Algorithm 8.2: Physical Enterprise Payment HSM Appliance Capacity & Cluster Sizing Engine                  46 
+Algorithm 8.3: Grover's Quantum Factoring Risk Estimation Engine                                           47
+Algorithm 8.4: Automated CBOM Asset Discovery & Cryptographic Agility Engine                               48
+
+Table 6.1: Hardware Specifications                              36,37
+Table 6.2: Software Specifications                              37,38 
+Table 6.3: Resource List                                        39
+Table 7.1: Trust Boundaries, Quantum Threat, QARP Migrations    41, 42
+Table 9.1: Physical Cryptographic Benchmark Timings on Local Hardware 49,50
+Table 10.1: Traditional Hardware Sizing versus Dynamic Post-Quantum Requirements 52
+Table 11.1 Cryptographic Algorithm PQC Compliance and Mitigation if not complaint 50,51

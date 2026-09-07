@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1127.52pt" height="538.2pt" viewBox="0 0 1127.52 538.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-07T09:40:24.769570</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 538.2 
+L 1127.52 538.2 
+L 1127.52 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 281.477647 248.445882 
+L 307.736471 248.445882 
+" clip-path="url(#p30b002c163)" style="fill: none; stroke-dasharray: 8.14,3.52; stroke-dashoffset: 0; stroke: #94a3b8; stroke-width: 2.2"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 552.818824 248.445882 
+L 579.077647 248.445882 
+" clip-path="url(#p30b002c163)" style="fill: none; stroke-dasharray: 8.14,3.52; stroke-dashoffset: 0; stroke: #94a3b8; stroke-width: 2.2"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 824.16 248.445882 
+L 850.418824 248.445882 
+" clip-path="url(#p30b002c163)" style="fill: none; stroke-dasharray: 8.14,3.52; stroke-dashoffset: 0; stroke: #94a3b8; stroke-width: 2.2"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 44.054118 508.171412 
+L 273.818824 508.171412 
+Q 290.230588 508.171412 290.230588 500.426118 
+L 290.230588 42.937412 
+Q 290.230588 35.192118 273.818824 35.192118 
+L 44.054118 35.192118 
+Q 27.642353 35.192118 27.642353 42.937412 
+L 27.642353 500.426118 
+Q 27.642353 508.171412 44.054118 508.171412 
+z
+" clip-path="url(#p30b002c163)" style="fill: #ffffff; stroke: #0284c7; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 315.395294 508.171412 
+L 545.16 508.171412 
+Q 561.571765 508.171412 561.571765 500.426118 
+L 561.571765 42.937412 
+Q 561.571765 35.192118 545.16 35.192118 
+L 315.395294 35.192118 
+Q 298.983529 35.192118 298.983529 42.937412 
+L 298.983529 500.426118 
+Q 298.983529 508.171412 315.395294 508.171412 
+z
+" clip-path="url(#p30b002c163)" style="fill: #ffffff; stroke: #d97706; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 586.736471 508.171412 
+L 816.501176 508.171412 
+Q 832.912941 508.171412 832.912941 500.426118 
+L 832.912941 42.937412 
+Q 832.912941 35.192118 816.501176 35.192118 
+L 586.736471 35.192118 
+Q 570.324706 35.192118 570.324706 42.937412 
+L 570.324706 500.426118 
+Q 570.324706 508.171412 586.736471 508.171412 
+z
+" clip-path="url(#p30b002c163)" style="fill: #ffffff; stroke: #dc2626; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 858.077647 508.171412 
+L 1087.842353 508.171412 
+Q 1104.254118 508.171412 1104.254118 500.426118 
+L 1104.254118 42.937412 
+Q 1104.254118 35.192118 1087.842353 35.192118 
+L 858.077647 35.192118 
+Q 841.665882 35.192118 841.665882 42.937412 
+L 841.665882 500.426118 
+Q 841.665882 508.171412 858.077647 508.171412 
+z
+" clip-path="url(#p30b002c163)" style="fill: #ffffff; stroke: #059669; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 302.265882 248.445882 
+" clip-path="url(#p30b002c163)" style="fill: none; stroke: #64748b; stroke-width: 1.5; stroke-linecap: square"/>
+    <defs>
+     <path id="m2922a935b8" d="M 0 2 
+C 0.530406 2 1.03916 1.789267 1.414214 1.414214 
+C 1.789267 1.03916 2 0.530406 2 0 
+C 2 -0.530406 1.789267 -1.03916 1.414214 -1.414214 
+C 1.03916 -1.789267 0.530406 -2 0 -2 
+C -0.530406 -2 -1.03916 -1.789267 -1.414214 -1.414214 
+C -1.789267 -1.03916 -2 -0.530406 -2 0 
+C -2 0.530406 -1.789267 1.03916 -1.414214 1.414214 
+C -1.03916 1.789267 -0.530406 2 0 2 
+z
+" style="stroke: #64748b"/>
+    </defs>
+    <g clip-path="url(#p30b002c163)">
+     <use xlink:href="#m2922a935b8" x="302.265882" y="248.445882" style="fill: #64748b; stroke: #64748b"/>
+    </g>
+   </g>
+   <g id="line2d_5">
+    <path d="M 573.607059 248.445882 
+" clip-path="url(#p30b002c163)" style="fill: none; stroke: #64748b; stroke-width: 1.5; stroke-linecap: square"/>
+    <g clip-path="url(#p30b002c163)">
+     <use xlink:href="#m2922a935b8" x="573.607059" y="248.445882" style="fill: #64748b; stroke: #64748b"/>
+    </g>
+   </g>
+   <g id="line2d_6">
+    <path d="M 844.948235 248.445882 
+" clip-path="url(#p30b002c163)" style="fill: none; stroke: #64748b; stroke-width: 1.5; stroke-linecap: square"/>
+    <g clip-path="url(#p30b002c163)">
+     <use xlink:href="#m2922a935b8" x="844.948235" y="248.445882" style="fill: #64748b; stroke: #64748b"/>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 45.148235 103.350706 
+L 272.724706 103.350706 
+Q 285.854118 103.350706 285.854118 97.154471 
+L 285.854118 43.453765 
+Q 285.854118 37.257529 272.724706 37.257529 
+L 45.148235 37.257529 
+Q 32.018824 37.257529 32.018824 43.453765 
+L 32.018824 97.154471 
+Q 32.018824 103.350706 45.148235 103.350706 
+z
+" clip-path="url(#p30b002c163)" style="fill: #0284c7"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="158.936471" y="61.597551" transform="rotate(-0 158.936471 61.597551)">PHASE 1</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="158.936471" y="82.60142" transform="rotate(-0 158.936471 82.60142)">LOCAL DATA INGESTION</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 91.648235 134.331882 
+L 226.224706 134.331882 
+Q 242.636471 134.331882 242.636471 126.586588 
+L 242.636471 117.292235 
+Q 242.636471 109.546941 226.224706 109.546941 
+L 91.648235 109.546941 
+Q 75.236471 109.546941 75.236471 117.292235 
+L 75.236471 126.586588 
+Q 75.236471 134.331882 91.648235 134.331882 
+z
+" clip-path="url(#p30b002c163)" style="fill: #f0f9ff"/>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0284c7" x="158.936471" y="124.246541" transform="rotate(-0 158.936471 124.246541)">[ INPUT LAYER ]</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="58.277647" y="168.485867" transform="rotate(-0 58.277647 168.485867)">•  JSON Gateway Logs</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="77.971765" y="186.174899" transform="rotate(-0 77.971765 186.174899)">Envoy / NGINX / Local REST</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="58.277647" y="227.866455" transform="rotate(-0 58.277647 227.866455)">•  Banking API Metadata</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="77.971765" y="245.555488" transform="rotate(-0 77.971765 245.555488)">Target Endpoints &amp; Ciphers</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="58.277647" y="287.243786" transform="rotate(-0 58.277647 287.243786)">•  Mock ISO 20022 Traces</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="77.971765" y="304.936076" transform="rotate(-0 77.971765 304.936076)">pacs.008 &amp; pain.001 Schemas</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 56.089412 495.778941 
+L 261.783529 495.778941 
+Q 274.912941 495.778941 274.912941 489.582706 
+L 274.912941 433.816588 
+Q 274.912941 427.620353 261.783529 427.620353 
+L 56.089412 427.620353 
+Q 42.96 427.620353 42.96 433.816588 
+L 42.96 489.582706 
+Q 42.96 495.778941 56.089412 495.778941 
+z
+" clip-path="url(#p30b002c163)" style="fill: #f0f9ff; stroke: #0284c7; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0284c7" x="158.936471" y="452.853552" transform="rotate(-0 158.936471 452.853552)">TELEMETRY EXTRACTED</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="158.936471" y="475.393828" transform="rotate(-0 158.936471 475.393828)">TPS, Payload &amp; Ciphers</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 316.489412 103.350706 
+L 544.065882 103.350706 
+Q 557.195294 103.350706 557.195294 97.154471 
+L 557.195294 43.453765 
+Q 557.195294 37.257529 544.065882 37.257529 
+L 316.489412 37.257529 
+Q 303.36 37.257529 303.36 43.453765 
+L 303.36 97.154471 
+Q 303.36 103.350706 316.489412 103.350706 
+z
+" clip-path="url(#p30b002c163)" style="fill: #d97706"/>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="430.277647" y="61.597551" transform="rotate(-0 430.277647 61.597551)">PHASE 2</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="430.277647" y="82.597738" transform="rotate(-0 430.277647 82.597738)">EMPIRICAL BENCHMARK</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 362.989412 134.331882 
+L 497.565882 134.331882 
+Q 513.977647 134.331882 513.977647 126.586588 
+L 513.977647 117.292235 
+Q 513.977647 109.546941 497.565882 109.546941 
+L 362.989412 109.546941 
+Q 346.577647 109.546941 346.577647 117.292235 
+L 346.577647 126.586588 
+Q 346.577647 134.331882 362.989412 134.331882 
+z
+" clip-path="url(#p30b002c163)" style="fill: #fffbeb"/>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #d97706" x="430.277647" y="124.249373" transform="rotate(-0 430.277647 124.249373)">[ CRYPTO ENGINE ]</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="329.618824" y="168.48261" transform="rotate(-0 329.618824 168.48261)">•  Open Quantum Safe</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="349.312941" y="186.174899" transform="rotate(-0 349.312941 186.174899)">liboqs C &amp; Python wrapper</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="329.618824" y="227.866455" transform="rotate(-0 329.618824 227.866455)">•  Local Host CPU Timing</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="349.312941" y="245.550663" transform="rotate(-0 349.312941 245.550663)">ML-KEM-768 &amp; ML-DSA-65</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="329.618824" y="287.247043" transform="rotate(-0 329.618824 287.247043)">•  Hardware Profiling</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="349.312941" y="304.936076" transform="rotate(-0 349.312941 304.936076)">Throughput Slump vs. RSA/ECDSA</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 327.430588 495.778941 
+L 533.124706 495.778941 
+Q 546.254118 495.778941 546.254118 489.582706 
+L 546.254118 433.816588 
+Q 546.254118 427.620353 533.124706 427.620353 
+L 327.430588 427.620353 
+Q 314.301176 427.620353 314.301176 433.816588 
+L 314.301176 489.582706 
+Q 314.301176 495.778941 327.430588 495.778941 
+z
+" clip-path="url(#p30b002c163)" style="fill: #fffbeb; stroke: #d97706; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #d97706" x="430.277647" y="452.853552" transform="rotate(-0 430.277647 452.853552)">EMPIRICAL BENCHMARKS</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="430.277647" y="475.390712" transform="rotate(-0 430.277647 475.390712)">Host CPU Latency &amp; Cycles</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 587.830588 103.350706 
+L 815.407059 103.350706 
+Q 828.536471 103.350706 828.536471 97.154471 
+L 828.536471 43.453765 
+Q 828.536471 37.257529 815.407059 37.257529 
+L 587.830588 37.257529 
+Q 574.701176 37.257529 574.701176 43.453765 
+L 574.701176 97.154471 
+Q 574.701176 103.350706 587.830588 103.350706 
+z
+" clip-path="url(#p30b002c163)" style="fill: #dc2626"/>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="701.618824" y="61.597551" transform="rotate(-0 701.618824 61.597551)">PHASE 3</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="701.618824" y="82.597738" transform="rotate(-0 701.618824 82.597738)">NETWORK &amp; SLA PROFILER</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 634.330588 134.331882 
+L 768.907059 134.331882 
+Q 785.318824 134.331882 785.318824 126.586588 
+L 785.318824 117.292235 
+Q 785.318824 109.546941 768.907059 109.546941 
+L 634.330588 109.546941 
+Q 617.918824 109.546941 617.918824 117.292235 
+L 617.918824 126.586588 
+Q 617.918824 134.331882 634.330588 134.331882 
+z
+" clip-path="url(#p30b002c163)" style="fill: #fef2f2"/>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #dc2626" x="701.618824" y="124.249373" transform="rotate(-0 701.618824 124.249373)">[ NETWORKING LAYER ]</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="600.96" y="168.48261" transform="rotate(-0 600.96 168.48261)">•  MTU Boundary Model</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="620.654118" y="186.174899" transform="rotate(-0 620.654118 186.174899)">1,500 Byte Ethernet limit</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="600.96" y="227.866455" transform="rotate(-0 600.96 227.866455)">•  Packet Fragmentation</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="620.654118" y="245.555488" transform="rotate(-0 620.654118 245.555488)">Handshake splits across packets</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="600.96" y="287.247043" transform="rotate(-0 600.96 287.247043)">•  Banking SLA Analyzer</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="620.654118" y="304.936076" transform="rotate(-0 620.654118 304.936076)">Flags Latency &gt; 50ms Breaches</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 598.771765 495.778941 
+L 804.465882 495.778941 
+Q 817.595294 495.778941 817.595294 489.582706 
+L 817.595294 433.816588 
+Q 817.595294 427.620353 804.465882 427.620353 
+L 598.771765 427.620353 
+Q 585.642353 427.620353 585.642353 433.816588 
+L 585.642353 489.582706 
+Q 585.642353 495.778941 598.771765 495.778941 
+z
+" clip-path="url(#p30b002c163)" style="fill: #fef2f2; stroke: #dc2626; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #dc2626" x="701.618824" y="452.853552" transform="rotate(-0 701.618824 452.853552)">NETWORK BOTTLENECK</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="701.618824" y="475.390712" transform="rotate(-0 701.618824 475.390712)">MTU Packets &amp; SLA Breaches</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 859.171765 103.350706 
+L 1086.748235 103.350706 
+Q 1099.877647 103.350706 1099.877647 97.154471 
+L 1099.877647 43.453765 
+Q 1099.877647 37.257529 1086.748235 37.257529 
+L 859.171765 37.257529 
+Q 846.042353 37.257529 846.042353 43.453765 
+L 846.042353 97.154471 
+Q 846.042353 103.350706 859.171765 103.350706 
+z
+" clip-path="url(#p30b002c163)" style="fill: #059669"/>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="972.96" y="61.597551" transform="rotate(-0 972.96 61.597551)">PHASE 4</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="972.96" y="82.597738" transform="rotate(-0 972.96 82.597738)">LOCAL RISK DASHBOARD</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 905.671765 134.331882 
+L 1040.248235 134.331882 
+Q 1056.66 134.331882 1056.66 126.586588 
+L 1056.66 117.292235 
+Q 1056.66 109.546941 1040.248235 109.546941 
+L 905.671765 109.546941 
+Q 889.26 109.546941 889.26 117.292235 
+L 889.26 126.586588 
+Q 889.26 134.331882 905.671765 134.331882 
+z
+" clip-path="url(#p30b002c163)" style="fill: #f0fdf4"/>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #059669" x="972.96" y="124.246541" transform="rotate(-0 972.96 124.246541)">[ EXECUTIVE COCKPIT ]</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="872.301176" y="168.623328" transform="rotate(-0 872.301176 168.623328)">•  Gidney-Ekerå Matrix</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="891.995294" y="186.174899" transform="rotate(-0 891.995294 186.174899)">Logical &amp; Physical Qubits</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="872.301176" y="227.866455" transform="rotate(-0 872.301176 227.866455)">•  Grover Triage</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="891.995294" y="245.550663" transform="rotate(-0 891.995294 245.550663)">Forces AES-128 → AES-256</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="872.301176" y="287.247043" transform="rotate(-0 872.301176 287.247043)">•  Physical HSM Sizing</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="891.995294" y="304.936076" transform="rotate(-0 891.995294 304.936076)">Dedicated Core Scaling Model</text>
+   </g>
+   <g id="patch_17">
+    <path d="M 870.112941 495.778941 
+L 1075.807059 495.778941 
+Q 1088.936471 495.778941 1088.936471 489.582706 
+L 1088.936471 433.816588 
+Q 1088.936471 427.620353 1075.807059 427.620353 
+L 870.112941 427.620353 
+Q 856.983529 427.620353 856.983529 433.816588 
+L 856.983529 489.582706 
+Q 856.983529 495.778941 870.112941 495.778941 
+z
+" clip-path="url(#p30b002c163)" style="fill: #f0fdf4; stroke: #059669; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #059669" x="972.96" y="452.853552" transform="rotate(-0 972.96 452.853552)">DEMO DELIVERABLE</text>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="972.96" y="475.390712" transform="rotate(-0 972.96 475.390712)">localhost:8501 Dashboard</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p30b002c163">
+   <rect x="5.76" y="5.76" width="1116" height="526.68"/>
+  </clipPath>
+ </defs>
+</svg>

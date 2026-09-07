@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1432.8pt" height="1720.8pt" viewBox="0 0 1432.8 1720.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-07T10:45:27.606369</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1720.8 
+L 1432.8 1720.8 
+L 1432.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 49.752 104.708571 
+L 1383.048 104.708571 
+" clip-path="url(#p525b4d93d3)" style="fill: none; stroke: #002060; stroke-width: 4.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 49.752 120.96 
+L 1383.048 120.96 
+" clip-path="url(#p525b4d93d3)" style="fill: none; stroke: #002060; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 49.752 221.718857 
+L 1383.048 221.718857 
+" clip-path="url(#p525b4d93d3)" style="fill: none; stroke: #002060; stroke-width: 2.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 49.752 532.121143 
+L 1383.048 532.121143 
+" clip-path="url(#p525b4d93d3)" style="fill: none; stroke: #94a3b8; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 49.752 1611.216 
+L 1383.048 1611.216 
+" clip-path="url(#p525b4d93d3)" style="fill: none; stroke: #002060; stroke-width: 3.5; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'Times New Roman'; text-anchor: start; fill: #002060" x="56.844" y="178.277482" transform="rotate(-0 56.844 178.277482)">Algorithm 1:</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 20.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="269.604" y="177.699991" transform="rotate(-0 269.604 177.699991)">PQC Network Bandwidth &amp; Latency Overhead Profiler</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Times New Roman'; text-anchor: start; fill: #002060" x="71.028" y="279.501403" transform="rotate(-0 71.028 279.501403)">Input:</text>
+   </g>
+   <g id="text_4">
+    <text style="font-style: italic; font-size: 17px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="205.776" y="279.416286" transform="rotate(-0 205.776 279.416286)">API Traces T = { (e_i, C_i, tps_i, L_base,i) } for i = 1, ..., N</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="205.776" y="331.301219" transform="rotate(-0 205.776 331.301219)">Target PQC Primitives: KEM K (e.g., ML-KEM-768), Signature S (e.g., ML-DSA-65)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="205.776" y="383.30579" transform="rotate(-0 205.776 383.30579)">Hardware Specs: PubKeySize(c), SigSize(c), Ethernet MTU = 1500 bytes</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="205.776" y="435.310362" transform="rotate(-0 205.776 435.310362)">Operational Constraints: Bank SLA Limit = 50.0 ms, Expansion Threshold = 3.0x</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'Times New Roman'; text-anchor: start; fill: #002060" x="71.028" y="494.020261" transform="rotate(-0 71.028 494.020261)">Output:</text>
+   </g>
+   <g id="text_9">
+    <text style="font-style: italic; font-size: 17px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="205.776" y="493.935143" transform="rotate(-0 205.776 493.935143)">Sizing Assessment Matrix M = { (e_i, tps_i, BW_leg, BW_pqc, Gamma_i, Phi_i, L_pqc, Risk_i) }</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="587.817121" transform="rotate(-0 71.028 587.817121)"> 1:</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="156.132" y="588.07379" transform="rotate(-0 156.132 588.07379)">Initialize empty output assessment matrix: M &lt;- []</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="627.633121" transform="rotate(-0 71.028 627.633121)"> 2:</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="156.132" y="627.88979" transform="rotate(-0 156.132 627.88979)">Extract Target PQC Key &amp; Signature Sizes from Specification:</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="667.449121" transform="rotate(-0 71.028 667.449121)"> 3:</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="215.7048" y="667.70579" transform="rotate(-0 215.7048 667.70579)">S_pqc &lt;- PubKeySize(K) + SigSize(S)    // ML-KEM-768 + ML-DSA-65: 1184 + 3300 = 4484 B</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="707.265121" transform="rotate(-0 71.028 707.265121)"> 4:</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="156.132" y="707.52179" transform="rotate(-0 156.132 707.52179)">Compute PQC Handshake MTU Packet Fragmentation Factor:</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="747.081121" transform="rotate(-0 71.028 747.081121)"> 5:</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="215.7048" y="747.33779" transform="rotate(-0 215.7048 747.33779)">Phi_pqc &lt;- ceil( S_pqc / MTU )             // ceil( 4484 / 1500 ) = 3 TCP packets</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="786.897121" transform="rotate(-0 71.028 786.897121)"> 6:</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 16.8px; font-family: 'Times New Roman'; text-anchor: start; fill: #002060" x="156.132" y="787.086449" transform="rotate(-0 156.132 787.086449)">for each trace t_i in API Traces T do</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="826.713121" transform="rotate(-0 71.028 826.713121)"> 7:</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="215.7048" y="826.96979" transform="rotate(-0 215.7048 826.96979)">C_leg &lt;- t_i.C_i                          // e.g., RSA-2048 or ECDSA-P256</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="866.529121" transform="rotate(-0 71.028 866.529121)"> 8:</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="215.7048" y="866.78579" transform="rotate(-0 215.7048 866.78579)">S_leg &lt;- PubKeySize(C_leg) + SigSize(C_leg) // e.g., 256 + 256 = 512 bytes</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="906.345121" transform="rotate(-0 71.028 906.345121)"> 9:</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="215.7048" y="906.60179" transform="rotate(-0 215.7048 906.60179)">Phi_leg &lt;- ceil( S_leg / MTU )           // ceil( 512 / 1500 ) = 1 TCP packet</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="946.161121" transform="rotate(-0 71.028 946.161121)">10:</text>
+   </g>
+   <g id="text_29">
+    <text style="font-style: italic; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #059669" x="215.7048" y="946.298152" transform="rotate(-0 215.7048 946.298152)">// Compute Ingress Bandwidth Requirements in Megabytes/sec (MB/s)</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="985.977121" transform="rotate(-0 71.028 985.977121)">11:</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="215.7048" y="986.23379" transform="rotate(-0 215.7048 986.23379)">BW_leg &lt;- ( t_i.tps_i * S_leg ) / ( 1024 * 1024 )</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1025.793121" transform="rotate(-0 71.028 1025.793121)">12:</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="215.7048" y="1026.04979" transform="rotate(-0 215.7048 1026.04979)">BW_pqc &lt;- ( t_i.tps_i * S_pqc ) / ( 1024 * 1024 )</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1065.609121" transform="rotate(-0 71.028 1065.609121)">13:</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="215.7048" y="1065.86579" transform="rotate(-0 215.7048 1065.86579)">Gamma_i &lt;- BW_pqc / max( 1.0, BW_leg )       // Bandwidth Expansion Scale Factor</text>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1105.425121" transform="rotate(-0 71.028 1105.425121)">14:</text>
+   </g>
+   <g id="text_37">
+    <text style="font-style: italic; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #059669" x="215.7048" y="1105.562152" transform="rotate(-0 215.7048 1105.562152)">// Model TCP Multi-Packet Serialization Latency &amp; Network Overhead</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1145.241121" transform="rotate(-0 71.028 1145.241121)">15:</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="215.7048" y="1145.49779" transform="rotate(-0 215.7048 1145.49779)">Delta_L &lt;- ( Phi_pqc - Phi_leg ) * 2.2 ms + ( S_pqc / MTU ) * 1.5 ms</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1185.057121" transform="rotate(-0 71.028 1185.057121)">16:</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="215.7048" y="1185.317658" transform="rotate(-0 215.7048 1185.317658)">L_pqc &lt;- t_i.L_base,i + Delta_L             // Projected Post-Quantum Handshake Latency</text>
+   </g>
+   <g id="text_42">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1224.873121" transform="rotate(-0 71.028 1224.873121)">17:</text>
+   </g>
+   <g id="text_43">
+    <text style="font-style: italic; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #059669" x="215.7048" y="1225.010152" transform="rotate(-0 215.7048 1225.010152)">// Evaluate Banking Service Level Agreement (SLA) &amp; Bottleneck Risk</text>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1264.689121" transform="rotate(-0 71.028 1264.689121)">18:</text>
+   </g>
+   <g id="text_45">
+    <text style="font-weight: 700; font-size: 16.8px; font-family: 'Times New Roman'; text-anchor: start; fill: #002060" x="215.7048" y="1264.878449" transform="rotate(-0 215.7048 1264.878449)">if ( Gamma_i &gt; 3.0 ) OR ( L_pqc &gt; 50.0 ms ) then</text>
+   </g>
+   <g id="text_46">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1304.505121" transform="rotate(-0 71.028 1304.505121)">19:</text>
+   </g>
+   <g id="text_47">
+    <text style="font-weight: 700; font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #dc2626" x="275.2776" y="1304.62515" transform="rotate(-0 275.2776 1304.62515)">Risk_i &lt;- CRITICAL_RISK ( Handshake Latency Spike &amp; HSM Deficit )</text>
+   </g>
+   <g id="text_48">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1344.321121" transform="rotate(-0 71.028 1344.321121)">20:</text>
+   </g>
+   <g id="text_49">
+    <text style="font-weight: 700; font-size: 16.8px; font-family: 'Times New Roman'; text-anchor: start; fill: #002060" x="215.7048" y="1344.505691" transform="rotate(-0 215.7048 1344.505691)">else</text>
+   </g>
+   <g id="text_50">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1384.137121" transform="rotate(-0 71.028 1384.137121)">21:</text>
+   </g>
+   <g id="text_51">
+    <text style="font-weight: 700; font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #16a34a" x="275.2776" y="1384.25715" transform="rotate(-0 275.2776 1384.25715)">Risk_i &lt;- COMPLIANT_MANAGED ( Within Latency Budget &amp; Capacity )</text>
+   </g>
+   <g id="text_52">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1423.953121" transform="rotate(-0 71.028 1423.953121)">22:</text>
+   </g>
+   <g id="text_53">
+    <text style="font-weight: 700; font-size: 16.8px; font-family: 'Times New Roman'; text-anchor: start; fill: #002060" x="215.7048" y="1424.142449" transform="rotate(-0 215.7048 1424.142449)">end if</text>
+   </g>
+   <g id="text_54">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1463.769121" transform="rotate(-0 71.028 1463.769121)">23:</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="215.7048" y="1464.02579" transform="rotate(-0 215.7048 1464.02579)">Record_i &lt;- ( t_i.e_i, t_i.tps_i, BW_leg, BW_pqc, Gamma_i, Phi_pqc, L_pqc, Risk_i )</text>
+   </g>
+   <g id="text_56">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1503.585121" transform="rotate(-0 71.028 1503.585121)">24:</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 16.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0f172a" x="215.7048" y="1503.84179" transform="rotate(-0 215.7048 1503.84179)">M.append( Record_i )</text>
+   </g>
+   <g id="text_58">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1543.401121" transform="rotate(-0 71.028 1543.401121)">25:</text>
+   </g>
+   <g id="text_59">
+    <text style="font-weight: 700; font-size: 16.8px; font-family: 'Times New Roman'; text-anchor: start; fill: #002060" x="156.132" y="1543.585691" transform="rotate(-0 156.132 1543.585691)">end for</text>
+   </g>
+   <g id="text_60">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #475569" x="71.028" y="1583.217121" transform="rotate(-0 71.028 1583.217121)">26:</text>
+   </g>
+   <g id="text_61">
+    <text style="font-weight: 700; font-size: 16.8px; font-family: 'Times New Roman'; text-anchor: start; fill: #002060" x="156.132" y="1583.401691" transform="rotate(-0 156.132 1583.401691)">return M</text>
+   </g>
+   <g id="text_62">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Times New Roman'; text-anchor: start; fill: #002060" x="71.028" y="1657.165652" transform="rotate(-0 71.028 1657.165652)">Complexity Analysis:</text>
+   </g>
+   <g id="text_63">
+    <text style="font-style: italic; font-size: 15.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #334155" x="333.432" y="1657.178513" transform="rotate(-0 333.432 1657.178513)">Time Complexity: O(N) linear scan over API endpoints | Space Complexity: O(N) for assessment matrix M</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p525b4d93d3">
+   <rect x="7.2" y="7.2" width="1418.4" height="1706.4"/>
+  </clipPath>
+ </defs>
+</svg>

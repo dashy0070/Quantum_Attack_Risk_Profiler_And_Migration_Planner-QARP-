@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1144.8pt" height="1576.8pt" viewBox="0 0 1144.8 1576.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-07T10:17:33.289807</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1576.8 
+L 1144.8 1576.8 
+L 1144.8 0 
+L 0 0 
+z
+" style="fill: #f8fafc"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 41.112 1555.177846 
+L 1103.688 1555.177846 
+Q 1124.0352 1555.177846 1124.0352 1533.544615 
+L 1124.0352 43.255385 
+Q 1124.0352 21.622154 1103.688 21.622154 
+L 41.112 21.622154 
+Q 20.7648 21.622154 20.7648 43.255385 
+L 20.7648 1533.544615 
+Q 20.7648 1555.177846 41.112 1555.177846 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #ffffff; stroke: #cbd5e1; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 61.4592 168.247385 
+L 1083.3408 168.247385 
+Q 1096.9056 168.247385 1096.9056 153.825231 
+L 1096.9056 58.879385 
+Q 1096.9056 44.457231 1083.3408 44.457231 
+L 61.4592 44.457231 
+Q 47.8944 44.457231 47.8944 58.879385 
+L 47.8944 153.825231 
+Q 47.8944 168.247385 61.4592 168.247385 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #002060; stroke: #002060; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 198.2376 362.946462 
+L 946.5624 362.946462 
+Q 963.5184 362.946462 963.5184 344.918769 
+L 963.5184 204.302769 
+Q 963.5184 186.275077 946.5624 186.275077 
+L 198.2376 186.275077 
+Q 181.2816 186.275077 181.2816 204.302769 
+L 181.2816 344.918769 
+Q 181.2816 362.946462 198.2376 362.946462 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #ffffff; stroke: #1e293b; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 198.2376 621.343385 
+L 946.5624 621.343385 
+Q 963.5184 621.343385 963.5184 603.315692 
+L 963.5184 462.699692 
+Q 963.5184 444.672 946.5624 444.672 
+L 198.2376 444.672 
+Q 181.2816 444.672 181.2816 462.699692 
+L 181.2816 603.315692 
+Q 181.2816 621.343385 198.2376 621.343385 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #ffffff; stroke: #1e293b; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 198.2376 879.740308 
+L 946.5624 879.740308 
+Q 963.5184 879.740308 963.5184 861.712615 
+L 963.5184 721.096615 
+Q 963.5184 703.068923 946.5624 703.068923 
+L 198.2376 703.068923 
+Q 181.2816 703.068923 181.2816 721.096615 
+L 181.2816 861.712615 
+Q 181.2816 879.740308 198.2376 879.740308 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #ffffff; stroke: #1e293b; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 198.2376 1138.137231 
+L 946.5624 1138.137231 
+Q 963.5184 1138.137231 963.5184 1120.109538 
+L 963.5184 979.493538 
+Q 963.5184 961.465846 946.5624 961.465846 
+L 198.2376 961.465846 
+Q 181.2816 961.465846 181.2816 979.493538 
+L 181.2816 1120.109538 
+Q 181.2816 1138.137231 198.2376 1138.137231 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #ffffff; stroke: #1e293b; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 62.5896 1522.728 
+L 336.1464 1522.728 
+Q 353.1024 1522.728 353.1024 1504.700308 
+L 353.1024 1394.130462 
+Q 353.1024 1376.102769 336.1464 1376.102769 
+L 62.5896 1376.102769 
+Q 45.6336 1376.102769 45.6336 1394.130462 
+L 45.6336 1504.700308 
+Q 45.6336 1522.728 62.5896 1522.728 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #fef2f2; stroke: #dc2626; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 808.6536 1522.728 
+L 1082.2104 1522.728 
+Q 1099.1664 1522.728 1099.1664 1504.700308 
+L 1099.1664 1394.130462 
+Q 1099.1664 1376.102769 1082.2104 1376.102769 
+L 808.6536 1376.102769 
+Q 791.6976 1376.102769 791.6976 1394.130462 
+L 791.6976 1504.700308 
+Q 791.6976 1522.728 808.6536 1522.728 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #f0fdf4; stroke: #16a34a; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 390.4056 1522.728 
+L 754.3944 1522.728 
+Q 771.3504 1522.728 771.3504 1504.700308 
+L 771.3504 1394.130462 
+Q 771.3504 1376.102769 754.3944 1376.102769 
+L 390.4056 1376.102769 
+Q 373.4496 1376.102769 373.4496 1394.130462 
+L 373.4496 1504.700308 
+Q 373.4496 1522.728 390.4056 1522.728 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #f8fafc; stroke: #334155; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 17.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="572.4" y="89.362432" transform="rotate(-0 572.4 89.362432)">Algorithm 1: PQC Sizing &amp; Network Overhead Profiler for Banking APIs</text>
+   </g>
+   <g id="text_2">
+    <text style="font-style: italic; font-size: 13px; font-family: 'Times New Roman'; text-anchor: middle; fill: #e2e8f0" x="572.4" y="132.898913" transform="rotate(-0 572.4 132.898913)">Mathematical &amp; Network Performance Modeling Pipeline (REST / TLS 1.3 / ISO 20022)</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 199.368 253.578462 
+L 945.432 253.578462 
+Q 958.9968 253.578462 958.9968 239.156308 
+L 958.9968 205.504615 
+Q 958.9968 191.082462 945.432 191.082462 
+L 199.368 191.082462 
+Q 185.8032 191.082462 185.8032 205.504615 
+L 185.8032 239.156308 
+Q 185.8032 253.578462 199.368 253.578462 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #1e3a8a; stroke: #1e293b; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="572.4" y="225.679905" transform="rotate(-0 572.4 225.679905)">Step 1: Telemetry &amp; Migration Parameter Ingestion</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="292.624813" transform="rotate(-0 572.4 292.624813)">• Ingest API Trace: { Endpoint, Legacy Algorithm (RSA/ECDSA), TPS, Payload Size }</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="327.478351" transform="rotate(-0 572.4 327.478351)">• Ingest Target NIST PQC Parameters: { Target KEM = ML-KEM-768, Target Signature = ML-DSA-65 }</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="362.33189" transform="rotate(-0 572.4 362.33189)">• Query PQC Benchmark Specification Matrix (liboqs / NIST FIPS 203 &amp; 204)</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 199.368 511.975385 
+L 945.432 511.975385 
+Q 958.9968 511.975385 958.9968 497.553231 
+L 958.9968 463.901538 
+Q 958.9968 449.479385 945.432 449.479385 
+L 199.368 449.479385 
+Q 185.8032 449.479385 185.8032 463.901538 
+L 185.8032 497.553231 
+Q 185.8032 511.975385 199.368 511.975385 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #0284c7; stroke: #1e293b; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="572.4" y="484.076828" transform="rotate(-0 572.4 484.076828)">Step 2: Cryptographic Key &amp; Signature Size Lookup</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="551.021736" transform="rotate(-0 572.4 551.021736)">• Classical Size:   S_legacy = PubKey_size(C_leg) + Sig_size(C_leg)     [e.g., 256B + 256B = 512 B]</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="585.875274" transform="rotate(-0 572.4 585.875274)">• PQC Target Size:  S_pqc = PubKey_size(ML-KEM) + Sig_size(ML-DSA)   [e.g., 1184B + 3300B = 4484 B]</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="620.728813" transform="rotate(-0 572.4 620.728813)">• Handshake Overhead Delta:  Delta_S = S_pqc - S_legacy  (+775.8% payload expansion)</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 199.368 770.372308 
+L 945.432 770.372308 
+Q 958.9968 770.372308 958.9968 755.950154 
+L 958.9968 722.298462 
+Q 958.9968 707.876308 945.432 707.876308 
+L 199.368 707.876308 
+Q 185.8032 707.876308 185.8032 722.298462 
+L 185.8032 755.950154 
+Q 185.8032 770.372308 199.368 770.372308 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #0d9488; stroke: #1e293b; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="572.4" y="742.473751" transform="rotate(-0 572.4 742.473751)">Step 3: Throughput &amp; Network Bandwidth Expansion Computation</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="809.418659" transform="rotate(-0 572.4 809.418659)">• Legacy Bandwidth:   BW_legacy = [ TPS * S_legacy ] / (1024 * 1024)   [MB/s]</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="844.272198" transform="rotate(-0 572.4 844.272198)">• Post-Quantum Bandwidth: BW_pqc = [ TPS * S_pqc ] / (1024 * 1024)      [MB/s]</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="879.125736" transform="rotate(-0 572.4 879.125736)">• Bandwidth Expansion Factor:  Gamma = BW_pqc / max(1.0, BW_legacy)</text>
+   </g>
+   <g id="patch_14">
+    <path d="M 199.368 1028.769231 
+L 945.432 1028.769231 
+Q 958.9968 1028.769231 958.9968 1014.347077 
+L 958.9968 980.695385 
+Q 958.9968 966.273231 945.432 966.273231 
+L 199.368 966.273231 
+Q 185.8032 966.273231 185.8032 980.695385 
+L 185.8032 1014.347077 
+Q 185.8032 1028.769231 199.368 1028.769231 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #d97706; stroke: #1e293b; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="572.4" y="1000.870674" transform="rotate(-0 572.4 1000.870674)">Step 4: TCP MTU Packet Fragmentation &amp; Latency Overhead Modeling</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="1067.815582" transform="rotate(-0 572.4 1067.815582)">• Compute MTU Packet Count:   Phi_pkts = ceil( S_pqc / 1500 bytes )   (1 packet -&gt; 3 packets)</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="1102.669121" transform="rotate(-0 572.4 1102.669121)">• Model Latency Inflation:    Delta_T_lat = ( S_pqc / 1500 ) * 1.5 ms   [+4.48 ms overhead]</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="1137.525589" transform="rotate(-0 572.4 1137.525589)">• Projected Endpoint Latency: T_total = T_base + Delta_T_lat</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 572.4 1221.064615 
+L 877.608 1296.18 
+L 572.4 1371.295385 
+L 267.192 1296.18 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #fef3c7; stroke: #b45309; stroke-width: 2.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="1275.49252" transform="rotate(-0 572.4 1275.49252)">SLA Breach &amp; Risk Evaluation</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 13px; font-family: 'Times New Roman'; text-anchor: middle; fill: #334155" x="572.4" y="1320.917235" transform="rotate(-0 572.4 1320.917235)">Is Gamma &gt; 3.0x  OR</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Times New Roman'; text-anchor: middle; fill: #334155" x="572.4" y="1354.464191" transform="rotate(-0 572.4 1354.464191)">T_total &gt; Bank SLA (50.0 ms)?</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Times New Roman'; text-anchor: middle; fill: #dc2626" x="180.1512" y="1298.578345" transform="rotate(-0 180.1512 1298.578345)">YES</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Times New Roman'; text-anchor: middle; fill: #16a34a" x="964.6488" y="1298.578345" transform="rotate(-0 964.6488 1298.578345)">NO</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 63.72 1443.406154 
+L 335.016 1443.406154 
+Q 348.5808 1443.406154 348.5808 1428.984 
+L 348.5808 1395.332308 
+Q 348.5808 1380.910154 335.016 1380.910154 
+L 63.72 1380.910154 
+Q 50.1552 1380.910154 50.1552 1395.332308 
+L 50.1552 1428.984 
+Q 50.1552 1443.406154 63.72 1443.406154 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #dc2626; stroke: #dc2626; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="199.368" y="1415.503491" transform="rotate(-0 199.368 1415.503491)">[!] CRITICAL RISK ALERT</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="199.368" y="1482.452505" transform="rotate(-0 199.368 1482.452505)">• Multi-Packet TLS Latency Spike</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="199.368" y="1517.306044" transform="rotate(-0 199.368 1517.306044)">• Sizing Deficit: Expand HSMs (+525%)</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="199.368" y="1552.159582" transform="rotate(-0 199.368 1552.159582)">• Priority PQC Migration Track</text>
+   </g>
+   <g id="patch_17">
+    <path d="M 809.784 1443.406154 
+L 1081.08 1443.406154 
+Q 1094.6448 1443.406154 1094.6448 1428.984 
+L 1094.6448 1395.332308 
+Q 1094.6448 1380.910154 1081.08 1380.910154 
+L 809.784 1380.910154 
+Q 796.2192 1380.910154 796.2192 1395.332308 
+L 796.2192 1428.984 
+Q 796.2192 1443.406154 809.784 1443.406154 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #16a34a; stroke: #16a34a; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="945.432" y="1415.507597" transform="rotate(-0 945.432 1415.507597)">[OK] MANAGED COMPLIANCE</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="945.432" y="1482.452505" transform="rotate(-0 945.432 1482.452505)">• Handshake Within SLA (&lt;50ms)</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="945.432" y="1517.306044" transform="rotate(-0 945.432 1517.306044)">• Standard Buffer Allocation</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="945.432" y="1552.159582" transform="rotate(-0 945.432 1552.159582)">• Low/Moderate Migration Urgency</text>
+   </g>
+   <g id="patch_18">
+    <path d="M 391.536 1443.406154 
+L 753.264 1443.406154 
+Q 766.8288 1443.406154 766.8288 1428.984 
+L 766.8288 1395.332308 
+Q 766.8288 1380.910154 753.264 1380.910154 
+L 391.536 1380.910154 
+Q 377.9712 1380.910154 377.9712 1395.332308 
+L 377.9712 1428.984 
+Q 377.9712 1443.406154 391.536 1443.406154 
+z
+" clip-path="url(#pe7d9e84a28)" style="fill: #475569; stroke: #334155; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="572.4" y="1415.503491" transform="rotate(-0 572.4 1415.503491)">Step 5: Output Report Record</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="1482.452505" transform="rotate(-0 572.4 1482.452505)">• Output Vector: { Endpoint, TPS, BW_leg,</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="1517.306044" transform="rotate(-0 572.4 1517.306044)">   BW_pqc, Gamma_scale, Delta_T, Status }</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 12.5px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="572.4" y="1552.159582" transform="rotate(-0 572.4 1552.159582)">• Stream to Streamlit UI &amp; Capstone Engine</text>
+   </g>
+   <g id="patch_19">
+    <path d="M 572.4 357.733571 
+Q 572.4 403.807009 572.4 446.973558 
+" style="fill: none; stroke: #334155; stroke-width: 2.6; stroke-linecap: round"/>
+    <path d="M 576.4 438.973558 
+L 572.4 446.973558 
+L 568.4 438.973558 
+z
+" style="fill: #334155; stroke: #334155; stroke-width: 2.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 572.4 616.130494 
+Q 572.4 662.203932 572.4 705.370481 
+" style="fill: none; stroke: #334155; stroke-width: 2.6; stroke-linecap: round"/>
+    <path d="M 576.4 697.370481 
+L 572.4 705.370481 
+L 568.4 697.370481 
+z
+" style="fill: #334155; stroke: #334155; stroke-width: 2.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 572.4 874.527417 
+Q 572.4 920.600855 572.4 963.767404 
+" style="fill: none; stroke: #334155; stroke-width: 2.6; stroke-linecap: round"/>
+    <path d="M 576.4 955.767404 
+L 572.4 963.767404 
+L 568.4 955.767404 
+z
+" style="fill: #334155; stroke: #334155; stroke-width: 2.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 572.4 1132.925991 
+Q 572.4 1175.996051 572.4 1216.159222 
+" style="fill: none; stroke: #334155; stroke-width: 2.6; stroke-linecap: round"/>
+    <path d="M 576.4 1208.159222 
+L 572.4 1216.159222 
+L 568.4 1208.159222 
+z
+" style="fill: #334155; stroke: #334155; stroke-width: 2.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 265.189445 1295.579077 
+Q 216.322553 1295.579077 170.362549 1295.579077 
+" style="fill: none; stroke: #dc2626; stroke-width: 2.6; stroke-linecap: round"/>
+    <path d="M 178.362549 1299.579077 
+L 170.362549 1295.579077 
+L 178.362549 1291.579077 
+z
+" style="fill: #dc2626; stroke: #dc2626; stroke-width: 2.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 165.456 1297.579134 
+Q 165.456 1339.445711 165.456 1378.4054 
+" style="fill: none; stroke: #dc2626; stroke-width: 2.6; stroke-linecap: round"/>
+    <path d="M 169.456 1370.4054 
+L 165.456 1378.4054 
+L 161.456 1370.4054 
+z
+" style="fill: #dc2626; stroke: #dc2626; stroke-width: 2.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 879.610555 1295.579077 
+Q 928.477447 1295.579077 974.437451 1295.579077 
+" style="fill: none; stroke: #16a34a; stroke-width: 2.6; stroke-linecap: round"/>
+    <path d="M 966.437451 1291.579077 
+L 974.437451 1295.579077 
+L 966.437451 1299.579077 
+z
+" style="fill: #16a34a; stroke: #16a34a; stroke-width: 2.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 979.344 1297.579134 
+Q 979.344 1339.445711 979.344 1378.4054 
+" style="fill: none; stroke: #16a34a; stroke-width: 2.6; stroke-linecap: round"/>
+    <path d="M 983.344 1370.4054 
+L 979.344 1378.4054 
+L 975.344 1370.4054 
+z
+" style="fill: #16a34a; stroke: #16a34a; stroke-width: 2.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 572.4 1373.293571 
+Q 572.4 1377.303149 572.4 1378.405838 
+" style="fill: none; stroke: #334155; stroke-width: 2.6; stroke-linecap: round"/>
+    <path d="M 576.4 1370.405838 
+L 572.4 1378.405838 
+L 568.4 1370.405838 
+z
+" style="fill: #334155; stroke: #334155; stroke-width: 2.6; stroke-linecap: round"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe7d9e84a28">
+   <rect x="7.2" y="7.2" width="1130.4" height="1562.4"/>
+  </clipPath>
+ </defs>
+</svg>

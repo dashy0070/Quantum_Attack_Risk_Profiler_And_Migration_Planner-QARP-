@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1353.6pt" height="790.56pt" viewBox="0 0 1353.6 790.56" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-07T02:59:03.278528</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 790.56 
+L 1353.6 790.56 
+L 1353.6 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 23.2704 713.5056 
+L 292.4496 713.5056 
+Q 312.5376 713.5056 312.5376 701.8632 
+L 312.5376 174.46248 
+Q 312.5376 162.82008 292.4496 162.82008 
+L 23.2704 162.82008 
+Q 3.1824 162.82008 3.1824 174.46248 
+L 3.1824 701.8632 
+Q 3.1824 713.5056 23.2704 713.5056 
+L 23.2704 713.5056 
+z
+" clip-path="url(#p9f32454c92)" style="fill: none; stroke-dasharray: 9.25,4; stroke-dashoffset: 0; stroke: #dc2626; stroke-width: 2.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 321.912 713.5056 
+L 591.0912 713.5056 
+Q 611.1792 713.5056 611.1792 701.8632 
+L 611.1792 174.46248 
+Q 611.1792 162.82008 591.0912 162.82008 
+L 321.912 162.82008 
+Q 301.824 162.82008 301.824 174.46248 
+L 301.824 701.8632 
+Q 301.824 713.5056 321.912 713.5056 
+L 321.912 713.5056 
+z
+" clip-path="url(#p9f32454c92)" style="fill: none; stroke-dasharray: 9.25,4; stroke-dashoffset: 0; stroke: #d97706; stroke-width: 2.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 620.5536 713.5056 
+L 889.7328 713.5056 
+Q 909.8208 713.5056 909.8208 701.8632 
+L 909.8208 174.46248 
+Q 909.8208 162.82008 889.7328 162.82008 
+L 620.5536 162.82008 
+Q 600.4656 162.82008 600.4656 174.46248 
+L 600.4656 701.8632 
+Q 600.4656 713.5056 620.5536 713.5056 
+L 620.5536 713.5056 
+z
+" clip-path="url(#p9f32454c92)" style="fill: none; stroke-dasharray: 9.25,4; stroke-dashoffset: 0; stroke: #1d4ed8; stroke-width: 2.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 919.1952 713.5056 
+L 1188.3744 713.5056 
+Q 1208.4624 713.5056 1208.4624 701.8632 
+L 1208.4624 174.46248 
+Q 1208.4624 162.82008 1188.3744 162.82008 
+L 919.1952 162.82008 
+Q 899.1072 162.82008 899.1072 174.46248 
+L 899.1072 701.8632 
+Q 899.1072 713.5056 919.1952 713.5056 
+L 919.1952 713.5056 
+z
+" clip-path="url(#p9f32454c92)" style="fill: none; stroke-dasharray: 9.25,4; stroke-dashoffset: 0; stroke: #7c3aed; stroke-width: 2.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 40.68 348.7104 
+L 275.04 348.7104 
+Q 288.432 348.7104 288.432 340.9488 
+L 288.432 189.5976 
+Q 288.432 181.836 275.04 181.836 
+L 40.68 181.836 
+Q 27.288 181.836 27.288 189.5976 
+L 27.288 340.9488 
+Q 27.288 348.7104 40.68 348.7104 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #fef2f2; stroke: #dc2626; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 40.68 232.829712 
+L 275.04 232.829712 
+Q 281.736 232.829712 281.736 228.948912 
+L 281.736 189.5976 
+Q 281.736 185.7168 275.04 185.7168 
+L 40.68 185.7168 
+Q 33.984 185.7168 33.984 189.5976 
+L 33.984 228.948912 
+Q 33.984 232.829712 40.68 232.829712 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #dc2626"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 40.68 523.3464 
+L 275.04 523.3464 
+Q 288.432 523.3464 288.432 515.5848 
+L 288.432 364.2336 
+Q 288.432 356.472 275.04 356.472 
+L 40.68 356.472 
+Q 27.288 356.472 27.288 364.2336 
+L 27.288 515.5848 
+Q 27.288 523.3464 40.68 523.3464 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #fef2f2; stroke: #dc2626; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 40.68 407.465712 
+L 275.04 407.465712 
+Q 281.736 407.465712 281.736 403.584912 
+L 281.736 364.2336 
+Q 281.736 360.3528 275.04 360.3528 
+L 40.68 360.3528 
+Q 33.984 360.3528 33.984 364.2336 
+L 33.984 403.584912 
+Q 33.984 407.465712 40.68 407.465712 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #dc2626"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 40.68 699.53472 
+L 275.04 699.53472 
+Q 288.432 699.53472 288.432 691.77312 
+L 288.432 540.42192 
+Q 288.432 532.66032 275.04 532.66032 
+L 40.68 532.66032 
+Q 27.288 532.66032 27.288 540.42192 
+L 27.288 691.77312 
+Q 27.288 699.53472 40.68 699.53472 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #fff1f2; stroke: #dc2626; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 40.68 583.654032 
+L 275.04 583.654032 
+Q 281.736 583.654032 281.736 579.773232 
+L 281.736 540.42192 
+Q 281.736 536.54112 275.04 536.54112 
+L 40.68 536.54112 
+Q 33.984 536.54112 33.984 540.42192 
+L 33.984 579.773232 
+Q 33.984 583.654032 40.68 583.654032 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #dc2626"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 339.3216 348.7104 
+L 573.6816 348.7104 
+Q 587.0736 348.7104 587.0736 340.9488 
+L 587.0736 189.5976 
+Q 587.0736 181.836 573.6816 181.836 
+L 339.3216 181.836 
+Q 325.9296 181.836 325.9296 189.5976 
+L 325.9296 340.9488 
+Q 325.9296 348.7104 339.3216 348.7104 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #fffbeb; stroke: #d97706; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 339.3216 232.829712 
+L 573.6816 232.829712 
+Q 580.3776 232.829712 580.3776 228.948912 
+L 580.3776 189.5976 
+Q 580.3776 185.7168 573.6816 185.7168 
+L 339.3216 185.7168 
+Q 332.6256 185.7168 332.6256 189.5976 
+L 332.6256 228.948912 
+Q 332.6256 232.829712 339.3216 232.829712 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #d97706"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 339.3216 523.3464 
+L 573.6816 523.3464 
+Q 587.0736 523.3464 587.0736 515.5848 
+L 587.0736 364.2336 
+Q 587.0736 356.472 573.6816 356.472 
+L 339.3216 356.472 
+Q 325.9296 356.472 325.9296 364.2336 
+L 325.9296 515.5848 
+Q 325.9296 523.3464 339.3216 523.3464 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #fffbeb; stroke: #d97706; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 339.3216 407.465712 
+L 573.6816 407.465712 
+Q 580.3776 407.465712 580.3776 403.584912 
+L 580.3776 364.2336 
+Q 580.3776 360.3528 573.6816 360.3528 
+L 339.3216 360.3528 
+Q 332.6256 360.3528 332.6256 364.2336 
+L 332.6256 403.584912 
+Q 332.6256 407.465712 339.3216 407.465712 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #d97706"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 339.3216 699.53472 
+L 573.6816 699.53472 
+Q 587.0736 699.53472 587.0736 691.77312 
+L 587.0736 540.42192 
+Q 587.0736 532.66032 573.6816 532.66032 
+L 339.3216 532.66032 
+Q 325.9296 532.66032 325.9296 540.42192 
+L 325.9296 691.77312 
+Q 325.9296 699.53472 339.3216 699.53472 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #fffbeb; stroke: #d97706; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 339.3216 583.654032 
+L 573.6816 583.654032 
+Q 580.3776 583.654032 580.3776 579.773232 
+L 580.3776 540.42192 
+Q 580.3776 536.54112 573.6816 536.54112 
+L 339.3216 536.54112 
+Q 332.6256 536.54112 332.6256 540.42192 
+L 332.6256 579.773232 
+Q 332.6256 583.654032 339.3216 583.654032 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #d97706"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 637.9632 348.7104 
+L 872.3232 348.7104 
+Q 885.7152 348.7104 885.7152 340.9488 
+L 885.7152 189.5976 
+Q 885.7152 181.836 872.3232 181.836 
+L 637.9632 181.836 
+Q 624.5712 181.836 624.5712 189.5976 
+L 624.5712 340.9488 
+Q 624.5712 348.7104 637.9632 348.7104 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #eff6ff; stroke: #1d4ed8; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 637.9632 232.829712 
+L 872.3232 232.829712 
+Q 879.0192 232.829712 879.0192 228.948912 
+L 879.0192 189.5976 
+Q 879.0192 185.7168 872.3232 185.7168 
+L 637.9632 185.7168 
+Q 631.2672 185.7168 631.2672 189.5976 
+L 631.2672 228.948912 
+Q 631.2672 232.829712 637.9632 232.829712 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #1d4ed8"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 637.9632 523.3464 
+L 872.3232 523.3464 
+Q 885.7152 523.3464 885.7152 515.5848 
+L 885.7152 364.2336 
+Q 885.7152 356.472 872.3232 356.472 
+L 637.9632 356.472 
+Q 624.5712 356.472 624.5712 364.2336 
+L 624.5712 515.5848 
+Q 624.5712 523.3464 637.9632 523.3464 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #eff6ff; stroke: #1d4ed8; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 637.9632 407.465712 
+L 872.3232 407.465712 
+Q 879.0192 407.465712 879.0192 403.584912 
+L 879.0192 364.2336 
+Q 879.0192 360.3528 872.3232 360.3528 
+L 637.9632 360.3528 
+Q 631.2672 360.3528 631.2672 364.2336 
+L 631.2672 403.584912 
+Q 631.2672 407.465712 637.9632 407.465712 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #1d4ed8"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 637.9632 699.53472 
+L 872.3232 699.53472 
+Q 885.7152 699.53472 885.7152 691.77312 
+L 885.7152 540.42192 
+Q 885.7152 532.66032 872.3232 532.66032 
+L 637.9632 532.66032 
+Q 624.5712 532.66032 624.5712 540.42192 
+L 624.5712 691.77312 
+Q 624.5712 699.53472 637.9632 699.53472 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #eff6ff; stroke: #1d4ed8; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 637.9632 583.654032 
+L 872.3232 583.654032 
+Q 879.0192 583.654032 879.0192 579.773232 
+L 879.0192 540.42192 
+Q 879.0192 536.54112 872.3232 536.54112 
+L 637.9632 536.54112 
+Q 631.2672 536.54112 631.2672 540.42192 
+L 631.2672 579.773232 
+Q 631.2672 583.654032 637.9632 583.654032 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #1d4ed8"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 936.6048 348.7104 
+L 1170.9648 348.7104 
+Q 1184.3568 348.7104 1184.3568 340.9488 
+L 1184.3568 189.5976 
+Q 1184.3568 181.836 1170.9648 181.836 
+L 936.6048 181.836 
+Q 923.2128 181.836 923.2128 189.5976 
+L 923.2128 340.9488 
+Q 923.2128 348.7104 936.6048 348.7104 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #f5f3ff; stroke: #7c3aed; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 936.6048 232.829712 
+L 1170.9648 232.829712 
+Q 1177.6608 232.829712 1177.6608 228.948912 
+L 1177.6608 189.5976 
+Q 1177.6608 185.7168 1170.9648 185.7168 
+L 936.6048 185.7168 
+Q 929.9088 185.7168 929.9088 189.5976 
+L 929.9088 228.948912 
+Q 929.9088 232.829712 936.6048 232.829712 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #7c3aed"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 936.6048 523.3464 
+L 1170.9648 523.3464 
+Q 1184.3568 523.3464 1184.3568 515.5848 
+L 1184.3568 364.2336 
+Q 1184.3568 356.472 1170.9648 356.472 
+L 936.6048 356.472 
+Q 923.2128 356.472 923.2128 364.2336 
+L 923.2128 515.5848 
+Q 923.2128 523.3464 936.6048 523.3464 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #f5f3ff; stroke: #7c3aed; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 936.6048 407.465712 
+L 1170.9648 407.465712 
+Q 1177.6608 407.465712 1177.6608 403.584912 
+L 1177.6608 364.2336 
+Q 1177.6608 360.3528 1170.9648 360.3528 
+L 936.6048 360.3528 
+Q 929.9088 360.3528 929.9088 364.2336 
+L 929.9088 403.584912 
+Q 929.9088 407.465712 936.6048 407.465712 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #7c3aed"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 936.6048 699.53472 
+L 1170.9648 699.53472 
+Q 1184.3568 699.53472 1184.3568 691.77312 
+L 1184.3568 540.42192 
+Q 1184.3568 532.66032 1170.9648 532.66032 
+L 936.6048 532.66032 
+Q 923.2128 532.66032 923.2128 540.42192 
+L 923.2128 691.77312 
+Q 923.2128 699.53472 936.6048 699.53472 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #f5f3ff; stroke: #7c3aed; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 936.6048 583.654032 
+L 1170.9648 583.654032 
+Q 1177.6608 583.654032 1177.6608 579.773232 
+L 1177.6608 540.42192 
+Q 1177.6608 536.54112 1170.9648 536.54112 
+L 936.6048 536.54112 
+Q 929.9088 536.54112 929.9088 540.42192 
+L 929.9088 579.773232 
+Q 929.9088 583.654032 936.6048 583.654032 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #7c3aed"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 20.592 787.2408 
+L 674.1216 787.2408 
+Q 684.8352 787.2408 684.8352 781.03152 
+L 684.8352 697.20624 
+Q 684.8352 690.99696 674.1216 690.99696 
+L 20.592 690.99696 
+Q 9.8784 690.99696 9.8784 697.20624 
+L 9.8784 781.03152 
+Q 9.8784 787.2408 20.592 787.2408 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #fef2f2; stroke: #dc2626; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 692.8704 787.2408 
+L 1333.008 787.2408 
+Q 1343.7216 787.2408 1343.7216 781.03152 
+L 1343.7216 697.20624 
+Q 1343.7216 690.99696 1333.008 690.99696 
+L 692.8704 690.99696 
+Q 682.1568 690.99696 682.1568 697.20624 
+L 682.1568 781.03152 
+Q 682.1568 787.2408 692.8704 787.2408 
+z
+" clip-path="url(#p9f32454c92)" style="fill: #f0fdf4; stroke: #15803d; stroke-width: 1.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0f172a" x="676.8" y="28.659065" transform="rotate(-0 676.8 28.659065)">CAPSTONE-2 (QARP) - STRIDE-QUANTUM THREAT MODEL</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Times New Roman'; text-anchor: middle; fill: #475569" x="676.8" y="47.327008" transform="rotate(-0 676.8 47.327008)">Trust Boundaries | Interfaces | Quantum Attacks | Mitigations</text>
+   </g>
+   <g id="text_3">
+    <g id="patch_32">
+     <path d="M 90.499063 168.64856 
+L 225.220938 168.64856 
+Q 228.720938 168.64856 228.720938 165.14856 
+L 228.720938 156.217896 
+Q 228.720938 152.717896 225.220938 152.717896 
+L 90.499063 152.717896 
+Q 86.999063 152.717896 86.999063 156.217896 
+L 86.999063 165.14856 
+Q 86.999063 168.64856 90.499063 168.64856 
+z
+" style="fill: #ffffff; stroke: #dc2626; stroke-width: 1.3; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #dc2626" x="157.86" y="162.990357" transform="rotate(-0 157.86 162.990357)">TB-1: Untrusted External Zone</text>
+   </g>
+   <g id="text_4">
+    <g id="patch_33">
+     <path d="M 395.340662 168.64856 
+L 517.662537 168.64856 
+Q 521.162537 168.64856 521.162537 165.14856 
+L 521.162537 156.217896 
+Q 521.162537 152.717896 517.662537 152.717896 
+L 395.340662 152.717896 
+Q 391.840662 152.717896 391.840662 156.217896 
+L 391.840662 165.14856 
+Q 391.840662 168.64856 395.340662 168.64856 
+z
+" style="fill: #ffffff; stroke: #d97706; stroke-width: 1.3; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #d97706" x="456.5016" y="162.990357" transform="rotate(-0 456.5016 162.990357)">TB-2: Ingress and Telemetry</text>
+   </g>
+   <g id="text_5">
+    <g id="patch_34">
+     <path d="M 699.540075 168.64856 
+L 810.746325 168.64856 
+Q 814.246325 168.64856 814.246325 165.14856 
+L 814.246325 156.212232 
+Q 814.246325 152.712232 810.746325 152.712232 
+L 699.540075 152.712232 
+Q 696.040075 152.712232 696.040075 156.212232 
+L 696.040075 165.14856 
+Q 696.040075 168.64856 699.540075 168.64856 
+z
+" style="fill: #ffffff; stroke: #1d4ed8; stroke-width: 1.3; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1d4ed8" x="755.1432" y="162.990357" transform="rotate(-0 755.1432 162.990357)">TB-3: QARP Core Engine</text>
+   </g>
+   <g id="text_6">
+    <g id="patch_35">
+     <path d="M 995.723863 168.64856 
+L 1111.845738 168.64856 
+Q 1115.345738 168.64856 1115.345738 165.14856 
+L 1115.345738 156.212232 
+Q 1115.345738 152.712232 1111.845738 152.712232 
+L 995.723863 152.712232 
+Q 992.223863 152.712232 992.223863 156.212232 
+L 992.223863 165.14856 
+Q 992.223863 168.64856 995.723863 168.64856 
+z
+" style="fill: #ffffff; stroke: #7c3aed; stroke-width: 1.3; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #7c3aed" x="1053.7848" y="162.990357" transform="rotate(-0 1053.7848 162.990357)">TB-4: Cryptographic Vault</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="157.86" y="211.814213" transform="rotate(-0 157.86 211.814213)">Banking Clients and APIs</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="157.86" y="259.341657" transform="rotate(-0 157.86 259.341657)">Retail and Mobile Apps</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="157.86" y="287.341629" transform="rotate(-0 157.86 287.341629)">Open Banking FAPI OAuth 2.0</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="157.86" y="315.336523" transform="rotate(-0 157.86 315.336523)">Corporate REST Gateways</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="157.86" y="386.447098" transform="rotate(-0 157.86 386.447098)">Interbank Network Nodes</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="157.86" y="433.977657" transform="rotate(-0 157.86 433.977657)">SWIFT Alliance Access</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="157.86" y="461.977629" transform="rotate(-0 157.86 461.977629)">SEPA and Fedwire Clearing</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="157.86" y="489.972523" transform="rotate(-0 157.86 489.972523)">Counterparty Ingress</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="157.86" y="562.635418" transform="rotate(-0 157.86 562.635418)">CRQC Threat Actor</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="157.86" y="610.160899" transform="rotate(-0 157.86 610.160899)">Harvest Now Decrypt Later</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="157.86" y="638.165949" transform="rotate(-0 157.86 638.165949)">Shors and Grovers Algorithms</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="157.86" y="666.165921" transform="rotate(-0 157.86 666.165921)">Fiber-tap Traffic Recorder</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="456.5016" y="211.814213" transform="rotate(-0 456.5016 211.814213)">TLS Termination Proxy</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="456.5016" y="259.341657" transform="rotate(-0 456.5016 259.341657)">HAProxy and NGINX Ingress</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="456.5016" y="287.341629" transform="rotate(-0 456.5016 287.341629)">Terminates TLS 1.2 and 1.3</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="456.5016" y="315.341601" transform="rotate(-0 456.5016 315.341601)">RSA-2048 and ECDSA P-256</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="456.5016" y="386.447098" transform="rotate(-0 456.5016 386.447098)">Network Trace Collector</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="456.5016" y="433.977657" transform="rotate(-0 456.5016 433.977657)">Zeek Core Flow Sniffer</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="456.5016" y="461.977629" transform="rotate(-0 456.5016 461.977629)">Payload Size Extractor</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="456.5016" y="489.977601" transform="rotate(-0 456.5016 489.977601)">TCP Flow MTU 1500 Bytes</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="456.5016" y="562.638533" transform="rotate(-0 456.5016 562.638533)">Streaming Message Bus</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="456.5016" y="610.165977" transform="rotate(-0 456.5016 610.165977)">Kafka Ingestion Buffer</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="456.5016" y="638.165949" transform="rotate(-0 456.5016 638.165949)">ISO 20022 pacs.008 pain.001</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="456.5016" y="666.160843" transform="rotate(-0 456.5016 666.160843)">1000 to 10000 TPS</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="755.1432" y="211.814213" transform="rotate(-0 755.1432 211.814213)">Streaming Parser</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="755.1432" y="259.341657" transform="rotate(-0 755.1432 259.341657)">Endpoint and TPS Extractor</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="755.1432" y="287.341629" transform="rotate(-0 755.1432 287.341629)">Cipher Suite Classifier</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="755.1432" y="315.341601" transform="rotate(-0 755.1432 315.341601)">MTU Fragmentation Calc</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="755.1432" y="386.450213" transform="rotate(-0 755.1432 386.450213)">CBOM and Risk Engine</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="755.1432" y="433.977657" transform="rotate(-0 755.1432 433.977657)">CycloneDX 1.6 CBOM</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="755.1432" y="461.977629" transform="rotate(-0 755.1432 461.977629)">STRIDE-Q and DREAD Scoring</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="755.1432" y="489.972523" transform="rotate(-0 755.1432 489.972523)">NIST FIPS 203 204 205</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="755.1432" y="562.638533" transform="rotate(-0 755.1432 562.638533)">Cost and Qubit Model</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="755.1432" y="610.165977" transform="rotate(-0 755.1432 610.165977)">Gidney-Ekera Qubit Calc</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="755.1432" y="638.165949" transform="rotate(-0 755.1432 638.165949)">liboqs EC2 Benchmarks</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="755.1432" y="666.165921" transform="rotate(-0 755.1432 666.165921)">+522 percent HSM Deficit</text>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="1053.7848" y="211.814213" transform="rotate(-0 1053.7848 211.814213)">Enterprise KMS and TPM 2.0</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="1053.7848" y="259.341657" transform="rotate(-0 1053.7848 259.341657)">Platform Measurement PCR</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="1053.7848" y="287.341629" transform="rotate(-0 1053.7848 287.341629)">Key Lifecycle Policies</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="1053.7848" y="315.341601" transform="rotate(-0 1053.7848 315.341601)">FIPS 140-3 Attestation</text>
+   </g>
+   <g id="text_47">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="1053.7848" y="386.447098" transform="rotate(-0 1053.7848 386.447098)">Payment HSM Clusters</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="1053.7848" y="433.977657" transform="rotate(-0 1053.7848 433.977657)">PCI-PTS and FIPS 140-3</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="1053.7848" y="461.977629" transform="rotate(-0 1053.7848 461.977629)">PIN Translation and PEK</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="1053.7848" y="489.977601" transform="rotate(-0 1053.7848 489.977601)">LMK and ZMK Storage</text>
+   </g>
+   <g id="text_51">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="1053.7848" y="562.635418" transform="rotate(-0 1053.7848 562.635418)">Settlement Ledger DB</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="1053.7848" y="610.165977" transform="rotate(-0 1053.7848 610.165977)">Immutable RTGS Records</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="1053.7848" y="638.165949" transform="rotate(-0 1053.7848 638.165949)">AES-256 GCM Encrypted</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 10px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1e293b" x="1053.7848" y="666.165921" transform="rotate(-0 1053.7848 666.165921)">DEK Wrapped with KEK</text>
+   </g>
+   <g id="patch_36">
+    <path d="M 277.03703 265.2732 
+Q 307.177607 265.2732 335.082116 265.2732 
+" style="fill: none; stroke: #dc2626; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 331.082116 263.2732 
+L 335.082116 265.2732 
+L 331.082116 267.2732 
+" style="fill: none; stroke: #dc2626; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_55">
+    <g id="patch_37">
+     <path d="M 247.141659 255.224703 
+L 367.219941 255.224703 
+L 367.219941 243.227105 
+L 247.141659 243.227105 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #dc2626" x="307.1808" y="251.30232" transform="rotate(-0 307.1808 251.30232)">IF-1: HTTPS TLS Handshake</text>
+   </g>
+   <g id="patch_38">
+    <path d="M 575.67863 265.2732 
+Q 605.819207 265.2732 633.723716 265.2732 
+" style="fill: none; stroke: #d97706; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 629.723716 263.2732 
+L 633.723716 265.2732 
+L 629.723716 267.2732 
+" style="fill: none; stroke: #d97706; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_56">
+    <g id="patch_39">
+     <path d="M 542.094666 255.224703 
+L 669.550134 255.224703 
+L 669.550134 243.227105 
+L 542.094666 243.227105 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #d97706" x="605.8224" y="251.30232" transform="rotate(-0 605.8224 251.30232)">IF-2: JSON and Zeek Telemetry</text>
+   </g>
+   <g id="patch_40">
+    <path d="M 874.32023 265.2732 
+Q 904.460807 265.2732 932.365316 265.2732 
+" style="fill: none; stroke: #1d4ed8; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 928.365316 263.2732 
+L 932.365316 265.2732 
+L 928.365316 267.2732 
+" style="fill: none; stroke: #1d4ed8; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_57">
+    <g id="patch_41">
+     <path d="M 847.236656 255.224703 
+L 961.691344 255.224703 
+L 961.691344 243.222007 
+L 847.236656 243.222007 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1d4ed8" x="904.464" y="251.30232" transform="rotate(-0 904.464 251.30232)">IF-3: KMS Key Audit Query</text>
+   </g>
+   <g id="patch_42">
+    <path d="M 277.03703 439.9092 
+Q 307.177607 439.9092 335.082116 439.9092 
+" style="fill: none; stroke: #dc2626; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 331.082116 437.9092 
+L 335.082116 439.9092 
+L 331.082116 441.9092 
+" style="fill: none; stroke: #dc2626; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_58">
+    <g id="patch_43">
+     <path d="M 246.327441 429.860703 
+L 368.034159 429.860703 
+L 368.034159 417.863105 
+L 246.327441 417.863105 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #dc2626" x="307.1808" y="425.93832" transform="rotate(-0 307.1808 425.93832)">IF-4: ISO 20022 pacs.008 Feed</text>
+   </g>
+   <g id="patch_44">
+    <path d="M 575.67863 439.9092 
+Q 605.819207 439.9092 633.723716 439.9092 
+" style="fill: none; stroke: #d97706; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 629.723716 437.9092 
+L 633.723716 439.9092 
+L 629.723716 441.9092 
+" style="fill: none; stroke: #d97706; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_59">
+    <g id="patch_45">
+     <path d="M 548.475525 429.860703 
+L 663.169275 429.860703 
+L 663.169275 417.863105 
+L 548.475525 417.863105 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #d97706" x="605.8224" y="425.93832" transform="rotate(-0 605.8224 425.93832)">IF-5: CBOM Inventory Feed</text>
+   </g>
+   <g id="patch_46">
+    <path d="M 874.32023 439.9092 
+Q 904.460807 439.9092 932.365316 439.9092 
+" style="fill: none; stroke: #1d4ed8; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 928.365316 437.9092 
+L 932.365316 439.9092 
+L 928.365316 441.9092 
+" style="fill: none; stroke: #1d4ed8; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_60">
+    <g id="patch_47">
+     <path d="M 845.23275 429.860703 
+L 963.69525 429.860703 
+L 963.69525 417.863105 
+L 845.23275 417.863105 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1d4ed8" x="904.464" y="425.93832" transform="rotate(-0 904.464 425.93832)">IF-6: PIN Block PKCS11 Call</text>
+   </g>
+   <g id="patch_48">
+    <path d="M 277.03703 616.09752 
+Q 307.177607 616.09752 335.082116 616.09752 
+" style="fill: none; stroke: #dc2626; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 331.082116 614.09752 
+L 335.082116 616.09752 
+L 331.082116 618.09752 
+" style="fill: none; stroke: #dc2626; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_61">
+    <g id="patch_49">
+     <path d="M 245.749472 606.049023 
+L 368.612128 606.049023 
+L 368.612128 594.046327 
+L 245.749472 594.046327 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #dc2626" x="307.1808" y="602.12664" transform="rotate(-0 307.1808 602.12664)">IF-7: Encrypted Traffic HNDL</text>
+   </g>
+   <g id="patch_50">
+    <path d="M 575.67863 616.09752 
+Q 605.819207 616.09752 633.723716 616.09752 
+" style="fill: none; stroke: #d97706; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 629.723716 614.09752 
+L 633.723716 616.09752 
+L 629.723716 618.09752 
+" style="fill: none; stroke: #d97706; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_62">
+    <g id="patch_51">
+     <path d="M 542.983416 606.049023 
+L 668.661384 606.049023 
+L 668.661384 594.051425 
+L 542.983416 594.051425 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #d97706" x="605.8224" y="602.12664" transform="rotate(-0 605.8224 602.12664)">IF-8: Fragmented PQC Packets</text>
+   </g>
+   <g id="patch_52">
+    <path d="M 874.32023 616.09752 
+Q 904.460807 616.09752 932.365316 616.09752 
+" style="fill: none; stroke: #1d4ed8; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 928.365316 614.09752 
+L 932.365316 616.09752 
+L 928.365316 618.09752 
+" style="fill: none; stroke: #1d4ed8; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_63">
+    <g id="patch_53">
+     <path d="M 838.015172 606.049023 
+L 970.912828 606.049023 
+L 970.912828 594.051425 
+L 838.015172 594.051425 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #1d4ed8" x="904.464" y="602.12664" transform="rotate(-0 904.464 602.12664)">IF-9: DEK Wrap KEK Vault Call</text>
+   </g>
+   <g id="text_64">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #dc2626" x="31.3056" y="712.855084" transform="rotate(-0 31.3056 712.855084)">QUANTUM ATTACK VECTORS (STRIDE)</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #7f1d1d" x="31.3056" y="727.863762" transform="rotate(-0 31.3056 727.863762)">IF-1/7  Info Disclosure: Shor cracks ECDH X25519, enables HNDL replay</text>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #7f1d1d" x="31.3056" y="743.386962" transform="rotate(-0 31.3056 743.386962)">IF-4    Spoofing and Tamper: Shor factors RSA-2048, forges pacs.008</text>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #7f1d1d" x="31.3056" y="758.910162" transform="rotate(-0 31.3056 758.910162)">IF-8    Denial of Service: PQC key sizes burst MTU 1500B, stall HSMs</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #7f1d1d" x="31.3056" y="774.433362" transform="rotate(-0 31.3056 774.433362)">TB-4   Elevation of Privilege: Grover 2^64 cracks KEK exposes DEKs</text>
+   </g>
+   <g id="text_69">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #15803d" x="703.584" y="712.861031" transform="rotate(-0 703.584 712.861031)">QARP ARCHITECTURAL MITIGATIONS</text>
+   </g>
+   <g id="text_70">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #14532d" x="703.584" y="727.863762" transform="rotate(-0 703.584 727.863762)">IF-1/7  FIPS 203 ML-KEM-768 hybrid key encapsulation on TLS 1.3</text>
+   </g>
+   <g id="text_71">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #14532d" x="703.584" y="743.386962" transform="rotate(-0 703.584 743.386962)">IF-4    FIPS 204 ML-DSA-65 and AES-256 GCM on ISO 20022 payloads</text>
+   </g>
+   <g id="text_72">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #14532d" x="703.584" y="758.910162" transform="rotate(-0 703.584 758.910162)">IF-8    Dynamic 522 percent HSM provisioning and TCP buffer tuning</text>
+   </g>
+   <g id="text_73">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #14532d" x="703.584" y="774.433362" transform="rotate(-0 703.584 774.433362)">TB-4   AES-256 Key Wrap SP800-38F TPM 2.0 PCR and FIPS 140-3 HSM</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9f32454c92">
+   <rect x="7.2" y="7.2" width="1339.2" height="776.16"/>
+  </clipPath>
+ </defs>
+</svg>
