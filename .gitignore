@@ -1,4 +1,4 @@
-# Python
+# Python Cache & Virtual Environments
 __pycache__/
 *.py[cod]
 *$py.class
@@ -11,6 +11,26 @@ ENV/
 *.tmp
 *.temp
 ~WRL*
+
+# Non-essential / Scratch Folders
+backup/
+templates/
+Proposal/
+
+# Scratch Text Notes & Presentations
+*.txt
+!requirements.txt
+*.docx
+!2_CS_13_Capstone Project_Quantum_Attack_Risk_Profiler_And_Migration_Planner(QARP)_2026_v9.docx
+*.pptx
+*.csv.xlsx
+
+# Image Files
+*.png
+*.svg
+*.jpg
+*.jpeg
+*.gif
 
 # OS specific
 Thumbs.db
