@@ -12,11 +12,12 @@ ENV/
 *.temp
 ~WRL*
 
-# Non-essential / Scratch Folders
+# Non-essential / Scratch / Duplicate Folders
 backup/
 templates/
 Proposal/
 Reference Biblography Capstone2/
+demo/
 
 # Documents & Presentations
 *.docx
@@ -26,7 +27,6 @@ Reference Biblography Capstone2/
 *.pdf
 *.txt
 !requirements.txt
-!demo/requirements.txt
 
 # Bibliographies & Scratch Data
 *.bib
@@ -38,9 +38,7 @@ falls
 *.xls
 *.csv.xlsx
 !reports/*.xlsx
-!demo/*.xlsx
 !cryptographic_algorithms_pqc.xlsx
-!demo/reports/*.xlsx
 qarp_cryptographic_bill_of_materials (*).csv
 qarp_cryptographic_bill_of_materials_default.csv
 qarp_quantum_risk_profiling_report (*).csv

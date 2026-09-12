@@ -32,10 +32,12 @@ pip install -r requirements.txt
 ```
 *(Dependencies: `streamlit`, `pandas`, `numpy`, `plotly`, `openpyxl`, `python-docx`)*
 
-### 3. Launch Interactive Streamlit GUI (Main Cockpit)
+### 3. Launch Interactive Streamlit Cockpit
 ```bash
 streamlit run app.py
 ```
+*(Windows users can also double-click `run_demo.bat` or run `.\run_demo.ps1`)*
+
 * The application automatically opens in your browser at: **`http://localhost:8501`**
 * **Available Modules (7 Navigational Views):**
   1. **Ingestion & Telemetry Parser:** Ingest JSON/CSV gateway logs, synthetic 10k streams, or raw binary PCAP packet captures with ClientHello dissection.
@@ -48,22 +50,13 @@ streamlit run app.py
 
 ---
 
-### 4. Alternative: Run the Standalone Demo Package
-```bash
-cd demo
-streamlit run app.py
-```
-*(Windows users can also double-click `demo/run_demo.bat` or execute `demo/run_demo.ps1`)*
-
----
-
-### 5. CLI Backend Sizing & Cost Engine
+### 4. CLI Backend Sizing & Cost Engine
 To run automated batch log analysis directly in your terminal:
 ```bash
 python pqc_log_parser_and_cost_engine.py
 ```
 
-### 6. Hardware & Cryptographic Validation Scripts
+### 5. Hardware & Cryptographic Validation Scripts
 ```bash
 # Empirical CPU benchmarks for ML-KEM-768 and ML-DSA-65
 python test_liboqs_benchmarks.py
@@ -73,6 +66,9 @@ python test_hsm_pqc_support.py
 
 # STRIDE post-quantum threat model generator
 python "Threat Model.py"
+
+# PCAP binary dissector standalone test
+python test_pcap_parser.py
 ```
 
 ---
@@ -80,18 +76,21 @@ python "Threat Model.py"
 ## 📁 Repository Structure
 
 ```text
-├── app.py                             # 🌟 Interactive Streamlit Dashboard (7 Views)
+├── app.py                             # 🌟 Interactive Streamlit Cockpit (7 Views)
 ├── pqc_log_parser_and_cost_engine.py  # ⚙️ Standalone Mathematical Sizing & Cost Engine
-├── sample_banking_logs.json           # 📄 Sample Ingress Telemetry (6 core banking endpoints)
-├── sample_banking_logs.csv            # 📊 Sample Ingress Telemetry (CSV format)
-├── sample_banking_traffic.pcap        # 📦 Binary Packet Capture (TLS ClientHello handshakes)
+├── sample_banking_logs.json           # 📄 Ingress Telemetry (JSON Format - 6 Core Endpoints)
+├── sample_banking_logs.csv            # 📊 Ingress Telemetry (CSV Format)
+├── sample_banking_traffic.pcap        # 📦 Binary Wireshark Packet Capture (TLS ClientHello)
 ├── synthetic_traffic_10k.json         # ⚡ High-Throughput Synthetic Banking Stream (10k tx)
-├── cryptographic_algorithms_pqc.xlsx  # 📑 CycloneDX 1.6 CBOM Excel Inventory Catalog
+├── cryptographic_algorithms_pqc.xlsx  # 📑 CycloneDX 1.6 CBOM Excel Catalog
 ├── test_liboqs_benchmarks.py          # 🔬 Empirical Hardware Benchmark Tool
 ├── test_hsm_pqc_support.py            # 🛡️ Payment HSM Cryptographic Support Validator
 ├── Threat Model.py                    # 🎯 STRIDE Quantum Threat Modeling Generator
-├── demo/                              # 🚀 Curated Standalone Demo Package (For Presentations)
-├── WHATS_NEW.md                       # 📖 Feature Breakdown, Competitor Matrix & Deployment Guide
+├── test_pcap_parser.py                # 🔬 PCAP Binary Dissector Validation Tool
+├── generate_sample_pcap.py            # ⚙️ PCAP Synthesis Utility
+├── run_demo.bat                       # 🚀 Windows One-Click Batch Launcher
+├── run_demo.ps1                       # 🚀 PowerShell Interactive Launcher
+├── WHATS_NEW.md                       # 📖 Feature Matrix, Competitor Benchmarks & Enterprise Deployment Guide
 ├── TEST_CASES_AND_VALIDATION_GUIDE.md # 🧪 Test Cases & Validation Walkthrough
 ├── requirements.txt                   # 📦 Python Package Dependencies
 └── README.md                          # 📖 Direct Execution Guide
