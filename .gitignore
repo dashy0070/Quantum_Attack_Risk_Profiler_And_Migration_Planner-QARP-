@@ -26,25 +26,27 @@ Reference Biblography Capstone2/
 *.pdf
 *.txt
 !requirements.txt
+!demo/requirements.txt
 
 # Bibliographies & Scratch Data
 *.bib
 .bib
 falls
 
-# Excel & Duplicate CSVs
+# Excel & Temporary CSVs
 *.xlsx
 *.xls
 *.csv.xlsx
 !reports/*.xlsx
 !demo/*.xlsx
 !cryptographic_algorithms_pqc.xlsx
+!demo/reports/*.xlsx
 qarp_cryptographic_bill_of_materials (*).csv
 qarp_cryptographic_bill_of_materials_default.csv
 qarp_quantum_risk_profiling_report (*).csv
 qarp_quantum_risk_profiling_report1.csv
 
-# Scratch Investigation & Verification Scripts
+# Scratch Generator, Verification & Formatting Scripts
 audit_*.py
 check_*.py
 fetch_*.py
@@ -57,11 +59,10 @@ decode_*.py
 fix_*.py
 inspect_*.py
 scan_*.py
+generate_*.py
+phases.py
 update_citations.py
 create_references_bib.ps1
-generate_capstone2_*.py
-generate_matrix_infographic.py
-generate_supplied_infographic.py
 
 # Image Files
 *.png

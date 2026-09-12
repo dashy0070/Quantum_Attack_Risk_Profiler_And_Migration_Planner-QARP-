@@ -470,7 +470,8 @@ if app_mode.startswith("1."):
         elif use_sample_pcap:
             try:
                 import os
-                pcap_file = "sample_banking_traffic.pcap" if os.path.exists("sample_banking_traffic.pcap") else "demo/sample_banking_traffic.pcap"
+                candidates = ["test/sample_banking_traffic.pcap", "sample_banking_traffic.pcap", "demo/sample_banking_traffic.pcap"]
+                pcap_file = next((p for p in candidates if os.path.exists(p)), "test/sample_banking_traffic.pcap")
                 with open(pcap_file, "rb") as f:
                     pcap_bytes = f.read()
                 sample_logs = parse_pcap_binary_data(pcap_bytes)
@@ -480,30 +481,40 @@ if app_mode.startswith("1."):
                 st.error(f"Error loading sample PCAP: {e}")
         elif use_sample_json:
             try:
-                with open("sample_banking_logs.json", "r") as f:
+                import os
+                candidates = ["test/sample_banking_logs.json", "sample_banking_logs.json", "demo/sample_banking_logs.json"]
+                json_file = next((p for p in candidates if os.path.exists(p)), "test/sample_banking_logs.json")
+                with open(json_file, "r") as f:
                     raw_df = pd.DataFrame(json.load(f))
-                st.info("Loaded `sample_banking_logs.json` (6 banking endpoints)")
+                st.info(f"Loaded `{json_file}` (6 banking endpoints)")
             except Exception as e:
                 st.error(f"Error loading sample JSON: {e}")
         elif use_sample_csv:
             try:
-                raw_df = pd.read_csv("sample_banking_logs.csv")
-                st.info("Loaded `sample_banking_logs.csv` (6 banking endpoints)")
+                import os
+                candidates = ["test/sample_banking_logs.csv", "sample_banking_logs.csv", "demo/sample_banking_logs.csv"]
+                csv_file = next((p for p in candidates if os.path.exists(p)), "test/sample_banking_logs.csv")
+                raw_df = pd.read_csv(csv_file)
+                st.info(f"Loaded `{csv_file}` (6 banking endpoints)")
             except Exception as e:
                 st.error(f"Error loading sample CSV: {e}")
         elif use_synthetic_10k:
             try:
-                with open("synthetic_traffic_10k.json", "r") as f:
+                import os
+                candidates = ["test/synthetic_traffic_10k.json", "synthetic_traffic_10k.json", "demo/synthetic_traffic_10k.json"]
+                synth_file = next((p for p in candidates if os.path.exists(p)), "test/synthetic_traffic_10k.json")
+                with open(synth_file, "r") as f:
                     data_10k = json.load(f)
                     if isinstance(data_10k, list):
                         raw_df = pd.DataFrame(data_10k[:200])
-                st.info(f"Loaded `synthetic_traffic_10k.json` (Profiled high-throughput batch)")
+                st.info(f"Loaded `{synth_file}` (Profiled high-throughput batch)")
             except Exception as e:
                 st.error(f"Error loading 10k dataset: {e}")
         elif use_project_excel:
             try:
                 import os
-                excel_file = "reports/cryptographic_algorithms_pqc.xlsx" if os.path.exists("reports/cryptographic_algorithms_pqc.xlsx") else "cryptographic_algorithms_pqc.xlsx"
+                excel_candidates = ["cryptographic_algorithms_pqc.xlsx", "reports/cryptographic_algorithms_pqc.xlsx", "demo/cryptographic_algorithms_pqc.xlsx"]
+                excel_file = next((p for p in excel_candidates if os.path.exists(p)), "cryptographic_algorithms_pqc.xlsx")
                 excel_data = pd.ExcelFile(excel_file)
                 raw_df = pd.read_excel(excel_file, sheet_name=excel_data.sheet_names[0])
                 raw_df = raw_df.dropna(subset=['Algorithm'])
@@ -594,7 +605,8 @@ if app_mode.startswith("1."):
         if st.button("▶️ Start Live Packet Capture & Decode Stream", type="primary", use_container_width=True):
             with st.spinner(f"📡 Sniffing {pkt_limit} packets on `{iface}` with filter `{proto_filter}`..."):
                 import os
-                pcap_file = "sample_banking_traffic.pcap" if os.path.exists("sample_banking_traffic.pcap") else "demo/sample_banking_traffic.pcap"
+                candidates = ["test/sample_banking_traffic.pcap", "sample_banking_traffic.pcap", "demo/sample_banking_traffic.pcap"]
+                pcap_file = next((p for p in candidates if os.path.exists(p)), "test/sample_banking_traffic.pcap")
                 try:
                     with open(pcap_file, "rb") as f:
                         pcap_bytes = f.read()
