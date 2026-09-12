@@ -26,11 +26,13 @@ Proposal/
 *.txt
 !requirements.txt
 
-# Root-level Excel and duplicate files (Excel allowed only under reports/)
+# Root-level Excel and duplicate files (Excel allowed under reports/ and demo/)
 *.xlsx
 *.xls
 *.csv.xlsx
 !reports/*.xlsx
+!demo/*.xlsx
+!cryptographic_algorithms_pqc.xlsx
 
 # Image Files
 *.png

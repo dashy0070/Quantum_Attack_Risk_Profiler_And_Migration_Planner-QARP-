@@ -1,0 +1,5 @@
+Endpoint,Protocol,TPS,Active Cipher,Legacy Asymmetric,Symmetric,Shor Qubits (Phys),Compromise Runway,Handshake Size Delta,MTU Packets (1500B),Base Latency,Projected PQC Latency,Monthly Bandwidth Delta
+/v1/settlement/credit-transfer,ISO 20022 pacs.008,2250,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,RSA-2048,AES-128,"19,998,240",2029.9 Yrs,512B -> 4484B (+776%),1 pkt -> 3 pkts,14.2 ms,18.6 ms,"+21,573.8 GB"
+/v1/clearing/rtgs-instant,ISO 20022 pacs.002,1750,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,ECDSA-P256,AES-256,"5,376,000",2030.4 Yrs,128B -> 4484B (+3403%),1 pkt -> 3 pkts,8.5 ms,12.9 ms,"+18,401.8 GB"
+/v1/fapi/open-banking/consent,REST / OAuth2 FAPI,750,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,RSA-2048,AES-128,"19,998,240",2029.9 Yrs,512B -> 4484B (+776%),1 pkt -> 3 pkts,18.0 ms,22.4 ms,"+7,191.3 GB"
+/v1/ledger/batch-reconciliation,SWIFT MT103 XML,250,TLS_RSA_WITH_AES_128_CBC_SHA,RSA-2048,AES-128,"19,998,240",2029.9 Yrs,512B -> 4484B (+776%),1 pkt -> 3 pkts,46.0 ms,50.4 ms,"+2,397.1 GB"

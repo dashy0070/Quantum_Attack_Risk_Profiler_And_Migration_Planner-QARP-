@@ -1,0 +1,29 @@
+Algorithm,Key / Output Size,PQC Compliant,Banking Function & Hardware Context (TPM / HSM / KMS / KEK),Mitigation & Justification
+RSA-2048,256 B (key),No, Function: Web/mobile banking TLS; EMV DDA chip card auth.,Broken by Shor's algorithm; migrate to ML-KEM-768/1024 or hybrid PQC KEM.
+RSA-4096,512 B (key),No, Function: Bank Root CAs; syndicated loan and audit signing.,Broken by Shor's algorithm; migrate to ML-DSA-87 or SLH-DSA for root signing.
+ECC / ECDSA P-256,32 B (key),No," Function: Mobile banking biometrics, FedNow & Apple Pay.",Broken by Shor's algorithm; replace with ML-DSA-44 (Dilithium Level 2).
+ECC / ECDSA P-384,48 B (key),No, Function: Central bank settlement rails & national switch signing.,Broken by Shor's algorithm; migrate to ML-DSA-65 or SLH-DSA.
+ECDH / X25519,32 B (secret),No, Function: TLS 1.3 key agreement for banking portals & microservices.,Broken by Shor's algorithm; pair with ML-KEM-768 in hybrid mode.
+ECDH / X448,56 B (secret),No, Function: Sovereign CBDC pilot rails; inter-datacenter links.,Broken by Shor's algorithm; combine with ML-KEM-1024 in hybrid scheme.
+AES-128,16 B (key),No, Function: Contactless EMV cryptograms (AC); ATM/POS DUKPT keys.,No; Grover's algorithm reduces security to ~64 bits (quantum breakable); upgrade to AES-256 KEK.
+AES-256,32 B (key),Yes, Function: PCI-DSS database TDE; Fedwire & SWIFT payload encryption.,Retains ~128-bit quantum security under Grover; remains fully quantum-resistant.
+ChaCha20-Poly1305,32 B (key),Yes, Function: Mobile banking TLS for devices lacking hardware AES-NI.,256-bit key retains ~128-bit quantum security; must pair with a PQC KEM.
+SHA-256,32 B (digest),No, Function: Banking TLS cert hashing; financial audit logging.,Quantum collision attacks reduce security to ~85–128 bits; upgrade to SHA-384/512 for CNSA 2.0 compliance.
+SHA-384,48 B (digest),Yes, Function: High-security central bank TLS; financial compliance signing.,Provides ~192-bit quantum preimage & ~128-bit collision resistance; CNSA 2.0 compliant.
+SHA-512,64 B (digest),Yes, Function: Immutable ledger timestamping; credential hashing.,Provides ~256-bit quantum security; recommended for long-term audit trail integrity.
+SHA-3-256,32 B (digest),Yes, Function: Core banking DLT/blockchain database integrity.,NIST FIPS 202 sponge construction; provides 128-bit quantum security.
+SHA-3-512,64 B (digest),Yes, Function: Multi-decade sovereign bond and reserve archives.,High-assurance quantum preimage and collision resistance; future-proof.
+HMAC-SHA256,32 B (MAC),No, Function: Payment gateway webhook validation; OAuth2 tokens.,Falls below post-quantum high-assurance threshold; upgrade to HMAC-SHA384/512.
+HMAC-SHA512,64 B (MAC),Yes, Function: SWIFT ISO 20022 message authentication; crypto custody.,Retains ~256-bit quantum PRF security; preferred for PQC-safe authentication.
+CRYSTALS-Kyber / ML-KEM-512,800 B (pubkey),Yes, Function: Next-gen PQC EMV contactless chip cards & wearables.,NIST FIPS 203 standard (Level 1); designed for constrained hardware.
+CRYSTALS-Kyber / ML-KEM-768,1184 B (pubkey),Yes, Function: Production TLS 1.3 for banking portals & Open Banking APIs.,NIST FIPS 203 standard (Level 3); recommended general-purpose PQC KEM.
+CRYSTALS-Kyber / ML-KEM-1024,1568 B (pubkey),Yes, Function: High-value settlement rails (Fedwire/SWIFT); gold transfers.,NIST FIPS 203 standard (Level 5); highest security for critical financial backbones.
+CRYSTALS-Dilithium / ML-DSA-44,1312 B (pubkey),Yes, Function: Mobile banking app attestation & payment authorization.,NIST FIPS 204 standard (Level 2); direct replacement for RSA-2048 / ECDSA P-256.
+CRYSTALS-Dilithium / ML-DSA-65,1952 B (pubkey),Yes, Function: Inter-bank ISO 20022 signing; corporate banking PKI.,NIST FIPS 204 standard (Level 3); primary enterprise signature standard.
+CRYSTALS-Dilithium / ML-DSA-87,2592 B (pubkey),Yes, Function: Sovereign debt registries; permanent financial contracts.,NIST FIPS 204 standard (Level 5); highest assurance PQC digital signature.
+FALCON-512,897 B (pubkey),Yes, Function: Compact digital signatures for EMV chip cards & NFC tokens.,NIST-selected (draft FN-DSA); minimal bandwidth overhead for hardware roots of trust.
+FALCON-1024,1793 B (pubkey),Yes, Function: Terminal microcode signing & ATM peripheral protection.,NIST-selected; compact high-security alternative to ML-DSA.
+SLH-DSA / SPHINCS+-128s,32 B (pubkey),Yes, Function: Long-term financial roots of trust independent of lattice math.,NIST FIPS 205 standard; conservative fallback immune to lattice cryptanalysis.
+SLH-DSA / SPHINCS+-256s,64 B (pubkey),Yes, Function: Multi-decade national banking PKI & sovereign debt covenants.,NIST FIPS 205 standard; highest security stateless hash-based anchor.
+Hybrid X25519 + ML-KEM-768,1216 B (pubkey),Yes, Function: Live TLS 1.3 transport protecting web traffic against HNDL.,Dual-defense combining classical ECDH with NIST FIPS 203 ML-KEM-768.
+TLS 1.3 (Hybrid PQC),Variable,Yes, Function: Quantum-safe transport for Fedwire/SWIFT & inter-bank clearing.,Deploys IETF hybrid key exchange; eliminates quantum eavesdropping risk

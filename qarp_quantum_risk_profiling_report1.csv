@@ -1,0 +1,7 @@
+Endpoint,Protocol,TPS,Active Cipher,Legacy Asymmetric,Symmetric,Shor Qubits (Phys),Compromise Runway,Handshake Size Delta,MTU Packets (1500B),Base Latency,Projected PQC Latency,Monthly Bandwidth Delta
+/v1/settlement/credit-transfer,ISO 20022 pacs.008,4500,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,RSA-2048,AES-128,"19,998,240",2029.9 Yrs,512B -> 4484B (+776%),1 pkt -> 3 pkts,14.5 ms,18.9 ms,"+43,147.6 GB"
+/v1/clearing/rtgs-instant,ISO 20022 pacs.002,8000,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,ECDSA-P256,AES-256,"5,376,000",2030.4 Yrs,128B -> 4484B (+3403%),1 pkt -> 3 pkts,8.2 ms,12.6 ms,"+84,122.7 GB"
+/v1/fapi/open-banking/consent,REST / OAuth2 FAPI,2200,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,RSA-2048,AES-128,"19,998,240",2029.9 Yrs,512B -> 4484B (+776%),1 pkt -> 3 pkts,19.4 ms,23.8 ms,"+21,094.4 GB"
+/v1/ledger/batch-reconciliation,SWIFT MT103 XML,1200,TLS_RSA_WITH_AES_128_CBC_SHA,RSA-2048,AES-128,"19,998,240",2029.9 Yrs,512B -> 4484B (+776%),1 pkt -> 3 pkts,46.0 ms,50.4 ms,"+11,506.0 GB"
+/v1/auth/token-exchange,OpenID Connect FAPI 2.0,3400,TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,ECDSA-P256,AES-128,"5,376,000",2030.4 Yrs,128B -> 4484B (+3403%),1 pkt -> 3 pkts,11.8 ms,16.2 ms,"+35,752.1 GB"
+/v1/cards/pos-switch,ISO 8583 Dual Message,9500,TLS_RSA_WITH_AES_256_GCM_SHA384,RSA-2048,AES-256,"19,998,240",2029.9 Yrs,512B -> 4484B (+776%),1 pkt -> 3 pkts,7.5 ms,11.9 ms,"+91,089.4 GB"
