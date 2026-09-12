@@ -24,8 +24,8 @@ The framework evaluates cryptographic exposure against quantum cryptanalysis (Sh
 
 ### Step 1: Clone and Navigate to Repository
 ```bash
-git clone https://github.com/dashy0070/Quantum_Attack_Risk_Profiler_And_Migration_Planner-QARP-.git
-cd Quantum_Attack_Risk_Profiler_And_Migration_Planner-QARP-
+git clone https://github.com/dashy0070/Quantum_Attack_Risk_Profiler_And_Migration_Planner-QARP.git
+cd Quantum_Attack_Risk_Profiler_And_Migration_Planner-QARP
 ```
 
 ### Step 2: Install Dependencies

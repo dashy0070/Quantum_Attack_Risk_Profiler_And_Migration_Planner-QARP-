@@ -121,8 +121,8 @@ For secure audit labs and air-gapped financial networks:
 
 1. **Copy the directory** to the target on-premise Linux (RHEL/Ubuntu) or Windows Server:
    ```bash
-   git clone https://github.com/dashy0070/Quantum_Attack_Risk_Profiler_And_Migration_Planner-QARP-.git
-   cd Quantum_Attack_Risk_Profiler_And_Migration_Planner-QARP-
+   git clone https://github.com/dashy0070/Quantum_Attack_Risk_Profiler_And_Migration_Planner-QARP.git
+   cd Quantum_Attack_Risk_Profiler_And_Migration_Planner-QARP
    ```
 2. **Install local dependencies:**
    ```bash
