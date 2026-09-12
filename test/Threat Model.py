@@ -111,27 +111,27 @@ def generate_threat_model():
     draw_component_box(ax, CX[0], RY[2], BW, BH, 'CRQC Threat Actor',
                        ['Harvest Now Decrypt Later', "Shor's & Grover's Algorithms", 'Fiber-tap Traffic Recorder'], M_HDR, M_BG)
 
-    # TB-2 Boxes (Purple)
-    draw_component_box(ax, CX[1], RY[0], BW, BH, 'TLS Termination Proxy',
-                       ['HAProxy / NGINX Ingress', 'Terminates TLS 1.2 and 1.3', 'RSA-2048 / ECDSA P-256'], P_HDR, P_BG)
-    draw_component_box(ax, CX[1], RY[1], BW, BH, 'Network Trace Collector',
-                       ['Zeek Core Flow Sniffer', 'Payload Size Extractor', 'TCP Flow (MTU 1500 Bytes)'], P_HDR, P_BG)
-    draw_component_box(ax, CX[1], RY[2], BW, BH, 'Streaming Message Bus',
-                       ['Kafka Ingestion Buffer', 'ISO 20022 pacs.008 / pain.001', '1,000 to 10,000 TPS Traffic'], P_HDR, P_BG)
+    # TB-2 Boxes (Purple) - Edge WAF & Next-Gen Firewalls
+    draw_component_box(ax, CX[1], RY[0], BW, BH, 'Edge WAF & Ingress Proxy',
+                       ['F5 BIG-IP Advanced WAF', 'NGINX Plus / Envoy Gateway', 'TLS 1.2/1.3 & Hybrid KEM'], P_HDR, P_BG)
+    draw_component_box(ax, CX[1], RY[1], BW, BH, 'Next-Gen Firewall (NGFW)',
+                       ['Palo Alto / Check Point Gateways', 'Deep Packet Inspection (DPI)', 'MTU 1500B Middlebox Filter'], P_HDR, P_BG)
+    draw_component_box(ax, CX[1], RY[2], BW, BH, 'Packet Sniffer & Message Bus',
+                       ['Promiscuous PCAP Sniffer', 'Kafka ISO 20022 Stream', '1,000 to 15,000 TPS Ingress'], P_HDR, P_BG)
 
     # TB-3 Boxes
-    draw_component_box(ax, CX[2], RY[0], BW, BH, 'Streaming Parser',
-                       ['Endpoint & TPS Extractor', 'Cipher Suite Classifier', 'MTU Fragmentation Calc'], B_HDR, B_BG)
+    draw_component_box(ax, CX[2], RY[0], BW, BH, 'Streaming & PCAP Dissector',
+                       ['Pure-Python PCAP Parser', 'Cipher Suite Classifier', 'MTU Reassembly & Latency Calc'], B_HDR, B_BG)
     draw_component_box(ax, CX[2], RY[1], BW, BH, 'CBOM and Risk Engine',
                        ['CycloneDX 1.6 CBOM Export', 'STRIDE-Q & DREAD Scoring', 'NIST FIPS 203 / 204 / 205'], B_HDR, B_BG)
-    draw_component_box(ax, CX[2], RY[2], BW, BH, 'Cost and Qubit Model',
-                       ['Gidney-Ekera Qubit Calculator', 'liboqs EC2 Benchmark Profiler', '+522% HSM Deficit Engine'], B_HDR, B_BG)
+    draw_component_box(ax, CX[2], RY[2], BW, BH, 'Hardware Sizing & Threat Suite',
+                       ['Gidney-Ekera Qubit Calculator', 'Side-Channel NTT/FIA Simulator', '+525% Payment HSM Engine'], B_HDR, B_BG)
 
     # TB-4 Boxes
     draw_component_box(ax, CX[3], RY[0], BW, BH, 'Enterprise KMS and TPM 2.0',
                        ['Platform Measurement (PCRs)', 'Key Lifecycle Governance', 'FIPS 140-3 Cryptographic Core'], V_HDR, V_BG)
     draw_component_box(ax, CX[3], RY[1], BW, BH, 'Payment HSM Clusters',
-                       ['PCI-PTS / FIPS 140-3 Certified', 'PIN Translation & PEK Handling', 'LMK and ZMK Vaults'], V_HDR, V_BG)
+                       ['Thales payShield / Utimaco', 'PIN Translation & PEK Handling', 'LMK and ZMK Master Vaults'], V_HDR, V_BG)
     draw_component_box(ax, CX[3], RY[2], BW, BH, 'Settlement Ledger DB',
                        ['Immutable RTGS Ledger Records', 'AES-256 GCM Encrypted Data', 'DEK Wrapped with AES-256 KEK'], V_HDR, V_BG)
 
@@ -173,7 +173,7 @@ def generate_threat_model():
     attacks = [
         'IF-1 / IF-7  Information Disclosure: Shor cracks ECDH X25519; enables HNDL session playback.',
         'IF-4         Spoofing & Tampering: Shor factors RSA-2048 to forge pacs.008 settlement XMLs.',
-        'IF-8         Denial of Service: Oversized PQC keys (>1500 B) trigger MTU fragmentation & HSM stalls.',
+        'IF-8         Denial of Service: Oversized PQC keys (>1500 B) trigger NGFW middlebox buffer drops & HSM stalls.',
         'TB-4 (int.)  Elevation of Privilege: Grover ~2^64 ops cracks 128-bit KEKs, exposing database DEKs.',
     ]
     for i, line in enumerate(attacks):
@@ -187,9 +187,9 @@ def generate_threat_model():
             fontsize=12.0, color=L_MIG, fontweight='bold', fontfamily=TNR, va='top', ha='left')
     
     mitigations = [
-        'IF-1 / IF-7  Enforce NIST FIPS 203 (ML-KEM-768) hybrid key encapsulation across all TLS 1.3 tunnels.',
+        'IF-1 / IF-7  Terminate F5 WAF / NGINX Hybrid TLS 1.3 (ML-KEM-768 + X25519) dual key encapsulation.',
         'IF-4         Dual-sign ISO 20022 schemas with NIST FIPS 204 (ML-DSA-65) and AES-256 GCM tags.',
-        'IF-8         Provision +522.2% HSM capacity via QARP cost engine; tune TCP socket reassembly buffers.',
+        'IF-8         Tune Palo Alto NGFW reassembly buffers & scale Payment HSMs (+525%) to prevent dropouts.',
         'TB-4 (int.)  Enforce AES-256 Key Wrap (NIST SP 800-38F), TPM 2.0 PCR attestation, and FIPS 140-3 HSM isolation.',
     ]
     for i, line in enumerate(mitigations):
