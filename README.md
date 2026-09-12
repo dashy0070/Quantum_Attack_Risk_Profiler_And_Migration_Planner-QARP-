@@ -63,16 +63,16 @@ To run automated batch log analysis directly in your terminal:
 python pqc_log_parser_and_cost_engine.py
 ```
 
-### 6. Hardware & Cryptographic Validation Scripts (in `test/`)
+### 6. Hardware & Cryptographic Validation Scripts
 ```bash
 # Empirical CPU benchmarks for ML-KEM-768 and ML-DSA-65
-python test/test_liboqs_benchmarks.py
+python test_liboqs_benchmarks.py
 
 # Payment HSM cryptographic firmware validation test
-python test/test_hsm_pqc_support.py
+python test_hsm_pqc_support.py
 
 # STRIDE post-quantum threat model generator
-python "test/Threat Model.py"
+python "Threat Model.py"
 ```
 
 ---
@@ -82,16 +82,15 @@ python "test/Threat Model.py"
 ```text
 ├── app.py                             # 🌟 Interactive Streamlit Dashboard (7 Views)
 ├── pqc_log_parser_and_cost_engine.py  # ⚙️ Standalone Mathematical Sizing & Cost Engine
+├── sample_banking_logs.json           # 📄 Sample Ingress Telemetry (6 core banking endpoints)
+├── sample_banking_logs.csv            # 📊 Sample Ingress Telemetry (CSV format)
+├── sample_banking_traffic.pcap        # 📦 Binary Packet Capture (TLS ClientHello handshakes)
+├── synthetic_traffic_10k.json         # ⚡ High-Throughput Synthetic Banking Stream (10k tx)
 ├── cryptographic_algorithms_pqc.xlsx  # 📑 CycloneDX 1.6 CBOM Excel Inventory Catalog
-├── demo/                              # 🚀 Standalone Self-Contained Demo Package
-├── test/                              # 🧪 Test Scripts, Sample Inputs, Ingress Logs & Wireshark PCAPs
-│   ├── sample_banking_traffic.pcap    # 📦 Binary Packet Capture (TLS ClientHello handshakes)
-│   ├── sample_banking_logs.json       # 📄 Sample Ingress Telemetry (6 core banking endpoints)
-│   ├── sample_banking_logs.csv        # 📊 Sample Ingress Telemetry (CSV format)
-│   ├── synthetic_traffic_10k.json     # ⚡ High-Throughput Synthetic Banking Stream (10k tx)
-│   ├── test_liboqs_benchmarks.py      # 🔬 Empirical Hardware Benchmark Tool
-│   ├── test_hsm_pqc_support.py        # 🛡️ Payment HSM Cryptographic Support Validator
-│   └── Threat Model.py                # 🎯 STRIDE Quantum Threat Modeling Generator
+├── test_liboqs_benchmarks.py          # 🔬 Empirical Hardware Benchmark Tool
+├── test_hsm_pqc_support.py            # 🛡️ Payment HSM Cryptographic Support Validator
+├── Threat Model.py                    # 🎯 STRIDE Quantum Threat Modeling Generator
+├── demo/                              # 🚀 Curated Standalone Demo Package (For Presentations)
 ├── WHATS_NEW.md                       # 📖 Feature Breakdown, Competitor Matrix & Deployment Guide
 ├── TEST_CASES_AND_VALIDATION_GUIDE.md # 🧪 Test Cases & Validation Walkthrough
 ├── requirements.txt                   # 📦 Python Package Dependencies
