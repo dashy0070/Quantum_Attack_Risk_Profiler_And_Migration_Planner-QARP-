@@ -18,6 +18,10 @@ templates/
 Proposal/
 Reference Biblography Capstone2/
 demo/
+Final Viva and Demo/
+extracted_media/
+Research Papers/
+screenshots/
 
 # Documents & Presentations
 *.docx
@@ -27,8 +31,10 @@ demo/
 *.pdf
 *.txt
 !requirements.txt
-
-# Bibliographies & Scratch Data
+*.html
+*.xml
+*.json
+!test/*.json
 *.bib
 .bib
 falls
@@ -44,6 +50,10 @@ qarp_cryptographic_bill_of_materials_default.csv
 qarp_quantum_risk_profiling_report (*).csv
 qarp_quantum_risk_profiling_report1.csv
 
+# PowerShell & Scratch Scripts
+*.ps1
+!run_demo.ps1
+
 # Scratch Generator, Verification & Formatting Scripts
 audit_*.py
 check_*.py
@@ -58,9 +68,29 @@ fix_*.py
 inspect_*.py
 scan_*.py
 generate_*.py
+!test/generate_sample_pcap.py
+analyze_*.py
+apply_*.py
+build_*.py
+clean_*.py
+convert_*.py
+deep_*.py
+dump_*.py
+extract_*.py
+inject_*.py
+insert_*.py
+link_*.py
+locate_*.py
+make_*.py
+process_*.py
+run_word_*.py
+trim_*.py
+tune_*.py
+update_*.py
 phases.py
-update_citations.py
-create_references_bib.ps1
+test_*.py
+!test/test_*.py
+!test/Threat Model.py
 
 # Image Files
 *.png
@@ -74,3 +104,4 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 .DS_Store
+

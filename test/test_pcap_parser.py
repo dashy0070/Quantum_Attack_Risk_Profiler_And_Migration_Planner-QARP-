@@ -120,9 +120,12 @@ def parse_pcap_binary_data(pcap_bytes: bytes) -> list:
     return parsed_records
 
 if __name__ == "__main__":
-    with open("sample_banking_traffic.pcap", "rb") as f:
+    import os
+    pcap_file = "test/sample_banking_traffic.pcap" if os.path.exists("test/sample_banking_traffic.pcap") else "sample_banking_traffic.pcap"
+    with open(pcap_file, "rb") as f:
         data = f.read()
     results = parse_pcap_binary_data(data)
-    print(f"Successfully parsed {len(results)} records from PCAP:")
+    print(f"Successfully parsed {len(results)} records from PCAP ({pcap_file}):")
     for r in results:
         print(" -", r["endpoint"], "|", r["tls_cipher"], "|", r["protocol"])
+
